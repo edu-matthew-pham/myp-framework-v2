@@ -3,6 +3,8 @@
   import { getPhaseColors, phaseText } from '$lib/subjects';
   import NodeCard from './NodeCard.svelte';
 
+  let { showLevels }: { showLevels?: () => void } = $props();
+
   // Derived state
   let data = $derived(appState.subjectData);
   let activePhaseIndex = $derived(
@@ -42,7 +44,7 @@
   }
 </script>
 
-<div class="flex-1 min-w-0 flex flex-col border-r border-border overflow-hidden">
+<div class="flex-1 min-w-0 flex flex-col lg:border-r border-border overflow-hidden">
   {#if activePhase && pc && textColor}
     <!-- ── Phase detail view ── -->
 
@@ -64,8 +66,21 @@
       {activePhase.description}
     </div>
 
+    <!-- Show levels button — mobile only -->
+    {#if showLevels}
+      <div class="lg:hidden px-5 py-2 border-b border-border shrink-0">
+        <button
+          class="w-full px-3 py-2 rounded-lg text-[11px] font-semibold tracking-wide
+            bg-surface2 border border-border text-text hover:border-muted transition-colors"
+          onclick={showLevels}
+        >
+          Show Achievement Levels →
+        </button>
+      </div>
+    {/if}
+
     <!-- Node cards grid -->
-    <div class="flex-1 overflow-y-auto p-3.5 grid grid-cols-[repeat(auto-fill,minmax(46%,1fr))] auto-rows-min gap-2.5">
+    <div class="flex-1 overflow-y-auto p-3.5 grid grid-cols-1 lg:grid-cols-[repeat(auto-fill,minmax(46%,1fr))] auto-rows-min gap-2.5">
       {#each activePhase.nodes as node}
         <NodeCard {node} phaseIndex={activePhaseIndex} />
       {/each}

@@ -2,6 +2,7 @@
   import { onMount } from 'svelte';
   import * as d3 from 'd3';
   import { appState, type Phase } from '$lib/state/subject.svelte';
+  import { getPhaseColors } from '$lib/subjects';
 
   let svgEl: SVGSVGElement;
   let containerEl: HTMLDivElement;
@@ -175,6 +176,7 @@
     const lh = labelFs * 1.3;
 
     data.phases.forEach((phase, pi) => {
+      const pc = getPhaseColors(pi);
       const lines = phase.label.split('\n');
       const gapMid = CR + (DIST - BH / 2 - CR) * 0.35;
 
@@ -191,7 +193,7 @@
         .attr('font-family', 'Libre Baskerville')
         .attr('font-weight', '700')
         .attr('font-size', labelFs)
-        .attr('fill', phase.color)
+        .attr('fill', pc.color)
         .attr('text-anchor', 'middle')
         .attr('dominant-baseline', 'middle')
         .attr('transform', `translate(${tx},${ty}) rotate(${rot})`);
@@ -226,12 +228,13 @@
       .attr('height', NH)
       .attr('rx', CORNER)
       .attr('ry', CORNER)
-      .attr('fill', (d) => d.phase.color)
-      .attr('stroke', (d) => d.phase.light)
+      .attr('fill', (d) => getPhaseColors(d.phaseIdx).color)
+      .attr('stroke', (d) => getPhaseColors(d.phaseIdx).light)
       .attr('stroke-width', 2);
 
     nodeGs.each(function (d) {
       const g = d3.select(this);
+      const pc = getPhaseColors(d.phaseIdx);
       const mc = Math.floor(NW / (lfs * 0.52));
       const ll = wrap(d.node.label, mc);
       const dl = wrap(d.node.detail, mc + 2);
@@ -261,7 +264,7 @@
           .attr('font-size', dfs)
           .attr('font-style', 'italic')
           .attr('font-family', 'DM Sans')
-          .attr('fill', d.phase.light)
+          .attr('fill', pc.light)
           .text(line);
         y += lh2 * 0.92;
       });

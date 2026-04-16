@@ -1,14 +1,19 @@
 <script lang="ts">
-  import { appState, type Phase, type OverviewSection } from '$lib/state/subject.svelte';
+  import { appState } from '$lib/state/subject.svelte';
+  import { getPhaseColors } from '$lib/subjects';
   import NodeCard from './NodeCard.svelte';
 
   // Derived state
   let data = $derived(appState.subjectData);
-  let activePhase = $derived(
-    data?.phases.find((p) => p.id === appState.activePhaseId) ?? null
+  let activePhaseIndex = $derived(
+    data?.phases.findIndex((p) => p.id === appState.activePhaseId) ?? -1
   );
+  let activePhase = $derived(
+    activePhaseIndex >= 0 ? data!.phases[activePhaseIndex] : null
+  );
+  let pc = $derived(activePhaseIndex >= 0 ? getPhaseColors(activePhaseIndex) : null);
 
-  // Tooltip state (managed here, shared with concept pills)
+  // Tooltip state
   let tipVisible = $state(false);
   let tipText = $state('');
   let tipX = $state(0);
@@ -37,18 +42,18 @@
 </script>
 
 <div class="flex-1 min-w-0 flex flex-col border-r border-border overflow-hidden">
-  {#if activePhase}
+  {#if activePhase && pc}
     <!-- ── Phase detail view ── -->
 
     <!-- Phase header with badge -->
     <div class="px-5 pt-4 pb-3 border-b border-border shrink-0">
       <span
         class="inline-block px-3 py-0.5 rounded-full text-[10px] font-semibold tracking-wide mb-1.5"
-        style="background: {activePhase.color}33; color: {activePhase.light}; border: 1px solid {activePhase.color}66;"
+        style="background: {pc.color}18; color: {pc.dark}; border: 1px solid {pc.color}44;"
       >
         {activePhase.criterion}
       </span>
-      <div class="font-serif text-base font-bold leading-tight mt-1" style="color: {activePhase.light};">
+      <div class="font-serif text-base font-bold leading-tight mt-1" style="color: {pc.dark};">
         {activePhase.label.replace(/\n/g, ' ')}
       </div>
     </div>
@@ -61,7 +66,7 @@
     <!-- Node cards grid -->
     <div class="flex-1 overflow-y-auto p-3.5 grid grid-cols-[repeat(auto-fill,minmax(46%,1fr))] auto-rows-min gap-2.5">
       {#each activePhase.nodes as node}
-        <NodeCard {node} color={activePhase.color} light={activePhase.light} />
+        <NodeCard {node} phaseIndex={activePhaseIndex} />
       {/each}
     </div>
 

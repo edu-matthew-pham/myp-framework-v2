@@ -1,17 +1,20 @@
 <script lang="ts">
   import type { Node } from '$lib/state/subject.svelte';
+  import { getPhaseColors } from '$lib/subjects';
 
-  let { node, color, light }: { node: Node; color: string; light: string } = $props();
+  let { node, phaseIndex }: { node: Node; phaseIndex: number } = $props();
+
+  let pc = $derived(getPhaseColors(phaseIndex));
 </script>
 
 <div
   class="bg-surface border border-border rounded-[10px] px-3.5 py-3 flex flex-col gap-1.5"
-  style="border-color: {color}55;"
+  style="border-color: {pc.color}55;"
 >
   <!-- Label + detail -->
-  <div class="text-xs font-semibold leading-tight" style="color: {light};">
+  <div class="text-s font-semibold leading-tight" style="color: {pc.dark};">
     {node.label}
-    <span class="font-normal opacity-65 text-[11px]">{node.detail}</span>
+    <span class="font-normal opacity-80 text-[14px]">{node.detail}</span>
   </div>
 
   <!-- Strand full text -->

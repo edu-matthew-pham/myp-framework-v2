@@ -145,6 +145,8 @@
                   {#each concepts.key as key, ki}
                     {@const def = concepts.key_definitions?.[ki]?.definition ?? ''}
                     <span
+                      role="button"
+                      tabindex={def.length > 0 ? 0 : undefined}
                       class="px-2.5 py-0.5 rounded-full text-[11px] font-semibold bg-surface2 border border-border text-text tracking-wide"
                       class:cursor-help={def.length > 0}
                       onmouseenter={(e) => { if (def) showTip(e.currentTarget as HTMLElement, def); }}
@@ -166,6 +168,8 @@
                         {@const name = typeof item === 'object' ? item.name : item}
                         {@const def = typeof item === 'object' ? item.definition : ''}
                         <span
+                          role="button"
+                          tabindex={def !== undefined && def.length > 0 ? 0 : undefined}
                           class="px-2.5 py-0.5 rounded-full text-[10.5px] bg-surface border border-border text-muted"
                           class:cursor-help={def !== undefined && def.length > 0}
                           onmouseenter={(e) => { if (def) showTip(e.currentTarget as HTMLElement, def); }}

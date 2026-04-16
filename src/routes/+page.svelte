@@ -4,6 +4,7 @@
   import { appState } from '$lib/state/subject.svelte';
   import { loadSubject } from '$lib/utils/data';
   import WheelRenderer from '$lib/components/WheelRenderer.svelte';
+  import InfoPanel from '$lib/components/InfoPanel.svelte';
 
   let activeTabIndex = $state(0);
 
@@ -51,29 +52,18 @@
 </div>
 
 <!-- Main three-panel layout -->
-<div class="flex flex-1 min-h-0 overflow-hidden">
+<div class="flex flex-1 min-h-0">
   <!-- Wheel panel -->
-  <div class="flex-[0_0_38%] flex items-center justify-center p-2.5">
+  <div class="flex-[0_0_38%] min-h-0">
     {#if appState.subjectData}
       <WheelRenderer />
     {/if}
   </div>
 
   <!-- Right side: info + levels -->
-  <div class="flex flex-1 min-w-0 border-l border-border">
+  <div class="flex flex-1 min-w-0 min-h-0 border-l border-border">
     <!-- Info panel -->
-    <div class="flex-1 min-w-0 flex flex-col border-r border-border overflow-hidden">
-      <div class="px-5 pt-4 pb-3 border-b border-border shrink-0">
-        {#if appState.subjectData}
-          <p class="text-sm text-muted leading-relaxed">
-            {appState.subjectData.title} loaded — {appState.subjectData.phases.length} phases
-          </p>
-        {:else}
-          <p class="text-sm text-muted leading-relaxed">Loading...</p>
-        {/if}
-      </div>
-      <div class="flex-1 overflow-y-auto p-3.5"></div>
-    </div>
+    <InfoPanel />
 
     <!-- Levels panel -->
     <div class="flex-[0_0_32%] min-w-[200px] max-w-[350px] flex flex-col overflow-hidden">

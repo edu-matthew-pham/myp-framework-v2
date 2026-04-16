@@ -4,10 +4,11 @@
   import { appState, type Phase } from '$lib/state/subject.svelte';
 
   let svgEl: SVGSVGElement;
+  let containerEl: HTMLDivElement;
 
   // Reactive rebuild when subject data changes
   $effect(() => {
-    if (appState.subjectData && svgEl) {
+    if (appState.subjectData && svgEl && containerEl) {
       build();
     }
   });
@@ -101,8 +102,10 @@
       });
     });
 
-    // Canvas dimensions
-    const H = Math.min(window.innerHeight - 46, 660);
+    // Size to container
+    const containerH = containerEl.clientHeight;
+    const containerW = containerEl.clientWidth;
+    const H = Math.min(containerH, containerW, 660);
     const W = H;
     const CX = W / 2;
     const CY = H / 2;
@@ -266,7 +269,9 @@
   }
 </script>
 
-<svg bind:this={svgEl} id="wheel" class="block overflow-visible"></svg>
+<div bind:this={containerEl} class="w-full h-full flex items-center justify-center">
+  <svg bind:this={svgEl} id="wheel" class="block overflow-visible"></svg>
+</div>
 
 <style>
   :global(.node-g) {

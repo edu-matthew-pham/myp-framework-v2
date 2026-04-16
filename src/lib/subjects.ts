@@ -1,3 +1,5 @@
+import { appState } from '$lib/state/subject.svelte';
+
 export interface SubjectTab {
   label: string;
   file: string;
@@ -32,12 +34,8 @@ export function getPhaseColors(index: number) {
   return PHASE_COLORS[index % PHASE_COLORS.length];
 }
 
-// Helper to get the correct text colour for current theme
-// Uses dark variant on light backgrounds, light variant on dark backgrounds
+// Reactive helper — returns the correct text colour for the current theme
 export function phaseText(index: number): string {
   const pc = getPhaseColors(index);
-  if (typeof document !== 'undefined') {
-    return document.documentElement.classList.contains('dark') ? pc.light : pc.dark;
-  }
-  return pc.dark;
+  return appState.isDark ? pc.light : pc.dark;
 }

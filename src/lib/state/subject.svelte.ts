@@ -1,3 +1,5 @@
+// src/lib/state/subject.svelte.ts
+
 // ── Types ──
 
 export interface Node {
@@ -110,4 +112,5 @@ export const appState = $state({
   activePhaseId: null as string | null,
   activeYear: 'y1' as 'y1' | 'y3' | 'y5',
   activeFoundTab: 0,
+  isDark: false,
 });

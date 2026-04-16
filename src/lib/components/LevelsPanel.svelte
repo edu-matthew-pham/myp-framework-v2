@@ -112,7 +112,6 @@
       {@const tab = appState.activeFoundTab}
 
       {#if tab === 0 && fd.learner_profile}
-        <!-- Learner Profile -->
         <p class="text-[11px] leading-relaxed text-muted italic mb-2">{fd.learner_profile.intro}</p>
         <div class="flex flex-col gap-1.5">
           {#each fd.learner_profile.attributes as attr}
@@ -124,7 +123,6 @@
         </div>
 
       {:else if tab === 1 && fd.soi_construction}
-        <!-- SOI Construction -->
         <p class="text-[11px] leading-relaxed text-muted italic mb-2">{fd.soi_construction.intro}</p>
         <div class="text-[11px] font-semibold text-text bg-surface2 rounded-md px-2.5 py-2 leading-normal tracking-wide mb-2.5">
           {fd.soi_construction.formula}
@@ -148,7 +146,6 @@
         </div>
 
       {:else if tab === 2 && fd.guiding_questions}
-        <!-- Guiding Questions -->
         <p class="text-[11px] leading-relaxed text-muted italic mb-2">{fd.guiding_questions.intro}</p>
         {#each fd.guiding_questions.phases as phase}
           <div class="mb-3">
@@ -166,7 +163,6 @@
         {/each}
 
       {:else if tab === 3 && fd.service_as_action}
-        <!-- Service as Action -->
         <p class="text-[11px] leading-relaxed text-muted italic mb-2">{fd.service_as_action.intro}</p>
         <div class="text-[10px] font-semibold tracking-widest uppercase text-muted mb-1.5">
           Key principles
@@ -195,7 +191,6 @@
         </div>
 
       {:else if tab === 4 && fd.interdisciplinary}
-        <!-- Interdisciplinary -->
         <p class="text-[11px] leading-relaxed text-muted italic mb-2">{fd.interdisciplinary.intro}</p>
         <div class="text-[11px] text-text bg-surface2 rounded-md px-2.5 py-2 leading-normal italic mb-2.5">
           {fd.interdisciplinary.definition}
@@ -238,7 +233,6 @@
       {/each}
 
     {:else}
-      <!-- ── Empty state ── -->
       <p class="text-xs text-muted leading-relaxed">Select a phase to see descriptors.</p>
     {/if}
   </div>

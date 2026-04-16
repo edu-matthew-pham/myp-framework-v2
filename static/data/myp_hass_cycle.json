@@ -1,0 +1,396 @@
+{
+  "title": "MYP Individuals & Societies",
+  "subtitle": "Learning Map",
+  "overview": {
+    "title": "Individuals & Societies Overview",
+    "description": "Select a criterion from the diagram to explore, or click the centre circle to return to this overview.",
+    "sections": [
+      {
+        "title": "Nature of the Subject",
+        "quote": "The study of individuals and societies helps students to develop their identities as individuals and as responsible members of local and global communities.",
+        "text": "MYP individuals and societies incorporates disciplines from the humanities (history, philosophy) and social sciences (economics, geography, sociology, political science). Students inquire into historical, contemporary, geographical, political, social, economic, religious, technological and cultural factors affecting individuals, societies and environments."
+      },
+      {
+        "title": "Curriculum Progression",
+        "text": "The table below shows how expectations for students increase across MYP years 1, 3 and 5.",
+        "progression_table": {
+          "headers": ["MYP Year 1", "MYP Year 3", "MYP Year 5"],
+          "rows": [
+            [
+              "Emphasis placed on individual strands of the objectives.",
+              "Emphasis placed on addressing individual objectives.",
+              "The objectives are fully addressed."
+            ],
+            [
+              "Students use vocabulary in context with basic descriptions and examples.",
+              "Students use a range of terminology and demonstrate knowledge through descriptions, explanations and examples.",
+              "Students use a wide range of terminology and demonstrate knowledge through developed descriptions, explanations and examples."
+            ],
+            [
+              "Students explain the choice of a research question and follow an action plan.",
+              "Students formulate or choose a clear and focused research question and evaluate with guidance.",
+              "Students formulate a clear and focused research question, justify its relevance, and evaluate independently."
+            ],
+            [
+              "Students communicate with clarity and list sources following task instructions.",
+              "Students communicate appropriately for audience/purpose and create a reference list.",
+              "Students communicate effectively using appropriate style and document sources using a recognized convention."
+            ],
+            [
+              "Students identify main points and use information to justify opinions.",
+              "Students analyse concepts and summarize information to make valid arguments.",
+              "Students discuss concepts and synthesize information to make valid, well-supported arguments."
+            ]
+          ]
+        }
+      },
+      {
+        "title": "Key and Related Concepts",
+        "text": "The key concepts contributed by the study of individuals and societies are Change, Global Interactions, Systems, and Time, Place and Space.",
+        "concepts": {
+          "key": ["Change", "Global Interactions", "Systems", "Time, Place and Space"],
+          "key_definitions": [
+            {
+              "name": "Change",
+              "definition": "Change is a conversion, transformation, or movement from one form, state or value to another. For individuals and societies, change allows examination of the forces that shape the world: past, present and future. Causes and effects can be natural and artificial; intentional and unintentional; positive, negative or neutral."
+            },
+            {
+              "name": "Global Interactions",
+              "definition": "Global interactions focuses on the connections between individuals and communities, and their relationships with built and natural environments, from the perspective of the world as a whole. It examines interdependence of the larger human community, including conflict, cooperation and shared finite resources."
+            },
+            {
+              "name": "Systems",
+              "definition": "Systems are sets of interacting or interdependent components that provide structure and order in human, natural and built environments. Systems can be static or dynamic, simple or complex. Social and natural systems rely on equilibrium and are vulnerable to change from internal and external forces."
+            },
+            {
+              "name": "Time, Place and Space",
+              "definition": "Time, place and space refers to the absolute or relative position of people, objects and ideas, focusing on how we construct and use our understanding of location. Time is a continuum of significant events; place is socially constructed; space relates to where and why places and landscapes are located."
+            }
+          ],
+          "related": [
+            {
+              "label": "Economics",
+              "items": [
+                { "name": "Choice", "definition": "Making a decision between alternatives, knowing that selecting one means going without the other. Rooted in scarcity — unlimited needs and wants met by limited resources." },
+                { "name": "Consumption", "definition": "The use of products to satisfy immediate needs and wants. Alternatives include investment and conservation, both of which allow for higher future consumption." },
+                { "name": "Equity", "definition": "Concerns about fairness and justice, particularly the distribution of an economy's products. Extremes of inequity can arise when differences in consumption are large." },
+                { "name": "Globalization", "definition": "The increasing integration of national economies so resources, products and information flow more freely across borders. Can be accelerated, slowed or reversed." },
+                { "name": "Growth", "definition": "An increase in the value of all goods and services produced in an economy, arising from increased resources or more efficient use of existing ones." },
+                { "name": "Model", "definition": "Simplified simulations of certain aspects of the economy, necessary because real-world complexity makes controlled experiments difficult." },
+                { "name": "Poverty", "definition": "A situation in which people are unable to consume at an adequate level, unable to meet basic needs for survival such as clothing, food and shelter." },
+                { "name": "Power", "definition": "The ability to make choices about what to produce, how to produce it, and who gets the goods. Can be centralized (command economy) or decentralized (free market)." },
+                { "name": "Resources", "definition": "The factors of production — land, labour, capital and entrepreneurship — used to make products that meet our needs and wants." },
+                { "name": "Scarcity", "definition": "When demand for a good exceeds supply at a price of zero. Forces choices about which needs and wants to satisfy, giving rise to the concept of opportunity cost." },
+                { "name": "Sustainability", "definition": "Meeting current needs and wants without hurting the ability of future generations to meet theirs. Can be enhanced by conserving resources or increasing production efficiency." },
+                { "name": "Trade", "definition": "The exchange of goods and services between participants in an economy. Free trade generally grows overall wealth, though gains may not be distributed equally." }
+              ]
+            },
+            {
+              "label": "Geography",
+              "items": [
+                { "name": "Causality", "definition": "The relationship between cause and effect and the internal/external factors that influence this relationship, applied to physical and human geographical phenomena." },
+                { "name": "Culture", "definition": "Learned behaviours and values shared by groups and transmitted through socialization, including language, customs, beliefs, dress, music, food and technology." },
+                { "name": "Disparity and equity", "definition": "Disparity is the uneven distribution of a quality, indicator or resource. Geography is often the study of inequality and disproportionate opportunity across places." },
+                { "name": "Diversity", "definition": "The ways in which places, environments and peoples differ — investigated over time and space in both physical and cultural dimensions." },
+                { "name": "Globalization", "definition": "A process of time–place convergence characterized by increasing interdependence among peoples and nations, amplified by technology and communication systems." },
+                { "name": "Management and intervention", "definition": "Human intervention in natural and human contexts to achieve desired ends, including responses to challenges of managing quantity and quality of resources." },
+                { "name": "Networks", "definition": "Interconnected groups or systems composed of nodes that depend on each other. A change in one node typically affects the others." },
+                { "name": "Patterns and trends", "definition": "Regular arrangements of something in a study area (patterns) or over time (trends), used to predict and anticipate geographic processes." },
+                { "name": "Power", "definition": "A capacity to make things happen, considered in geography in terms of physical processes and in human development — government, corporations, communities and citizens." },
+                { "name": "Processes", "definition": "Measured movements in the physical, human or cultural world toward particular results, marking gradual changes with expected or unintended outcomes." },
+                { "name": "Scale", "definition": "The local, regional, national and international/global framework within which subject content is applicable — challenges can be analysed at one or across multiple scales." },
+                { "name": "Sustainability", "definition": "The use of global resources at a rate that allows natural regeneration and minimizes environmental damage, encompassing carrying capacity and ecological footprint." }
+              ]
+            },
+            {
+              "label": "History",
+              "items": [
+                { "name": "Causality", "definition": "In history, a cause gives rise to an action, event, phenomenon or condition; a consequence is its result. Often examined over short and long terms, and across multiple causality." },
+                { "name": "Civilization", "definition": "Forms of social organization that are large, complex and have achieved a level of urbanization and cultural development through processes of change." },
+                { "name": "Conflict", "definition": "Develops from inequalities in the distribution of power; may manifest as disagreements, armed struggle or clashes of interests. Can be a source of continuity and catalyst for change." },
+                { "name": "Cooperation", "definition": "Individuals or societies working together towards the same end. Can be a catalyst for change or continuity and implies certain levels of responsibility." },
+                { "name": "Culture", "definition": "A range of unique experiences, behaviours, customs and ways of knowing within human communities, transmitted across generations and affecting perceptions and behaviour." },
+                { "name": "Governance", "definition": "Mechanisms and processes that regulate authority. Groups create institutions — monarchies, republics, parliaments — that reflect human values and distribute power, laws and resources." },
+                { "name": "Identity", "definition": "The combination of values, beliefs and experiences that define who we are. From a historical perspective, identity can be a cause or consequence of an event, idea or process." },
+                { "name": "Ideology", "definition": "A system of ideas and ideals forming the basis of political or economic theories, policies and actions. Can evolve to meet the needs of a group and impact rights and responsibilities." },
+                { "name": "Innovation and revolution", "definition": "Processes that drive change and invention — generating new ideas or solutions through transformation, reorganization or renovation of existing ones." },
+                { "name": "Interdependence", "definition": "Two or more individuals, groups or societies being reliant on each other. Results can be positive or negative and change depending on time period and location." },
+                { "name": "Perspective", "definition": "The way someone looks at something, taking into consideration all things that have happened in the past. For historians, it implies understanding different sides of an event." },
+                { "name": "Significance", "definition": "The quality of having great value in historical context — the political, social, cultural and economic setting that gives an idea or event its meaning." }
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "assessment_overview": {
+    "intro": "Each criterion has eight possible achievement levels (1–8), divided into four bands representing performance that is: limited (1–2), adequate (3–4), substantial (5–6), and excellent (7–8). Each band has its own unique descriptor used to make best-fit judgments.",
+    "requirement": "Subject groups must assess all strands of all four assessment criteria at least twice in each year of the MYP. Students must engage in an investigation in each year of the programme."
+  },
+  "phases": [
+    {
+      "id": "ku",
+      "label": "Knowing &\nUnderstanding",
+      "criterion": "Criterion A",
+      "color": "#4A90C4",
+      "light": "#cde3f5",
+      "description": "Students develop factual and conceptual knowledge about individuals and societies, demonstrating understanding of subject-specific content and concepts through descriptions, explanations and examples.",
+      "nodes": [
+        {
+          "label": "Use",
+          "detail": "terminology in context",
+          "description": "Students accurately and appropriately use subject-specific vocabulary and terminology in the context of their responses. Progression moves from recognising vocabulary (Y1), to using a range accurately (Y3), to consistently using a wide range effectively (Y5).",
+          "progression": {
+            "y1": "Recognises and uses some vocabulary. At 7–8: consistently uses relevant vocabulary accurately.",
+            "y3": "Uses some terminology accurately. At 7–8: consistently uses a range of terminology accurately.",
+            "y5": "Uses some terminology accurately and appropriately. At 7–8: consistently uses a wide range of terminology effectively."
+          },
+          "strand_full": "Use vocabulary/terminology in context (Strand i)."
+        },
+        {
+          "label": "Demonstrate",
+          "detail": "knowledge & understanding",
+          "description": "Students demonstrate knowledge and understanding of subject-specific content and concepts through descriptions, explanations and examples. Sophistication of descriptions increases across the MYP years.",
+          "progression": {
+            "y1": "Demonstrates basic knowledge through limited descriptions/examples. At 7–8: excellent knowledge through detailed descriptions, explanations and examples.",
+            "y3": "Demonstrates satisfactory knowledge through simple descriptions. At 7–8: excellent knowledge through developed and accurate descriptions, explanations and examples.",
+            "y5": "Demonstrates adequate knowledge through satisfactory descriptions. At 7–8: excellent knowledge through thorough, accurate descriptions, explanations and examples."
+          },
+          "strand_full": "Demonstrate knowledge and understanding of subject-specific content and concepts through descriptions, explanations and examples (Strand ii)."
+        }
+      ],
+      "levels": {
+        "y1": [
+          { "band": "1–2", "text": "Recognizes some vocabulary; demonstrates basic knowledge and understanding of content and concepts through limited descriptions and/or examples." },
+          { "band": "3–4", "text": "Uses some vocabulary; demonstrates satisfactory knowledge and understanding of content and concepts through simple descriptions, explanations and/or examples." },
+          { "band": "5–6", "text": "Uses considerable relevant vocabulary, often accurately; demonstrates substantial knowledge and understanding of content and concepts through descriptions, explanations and examples." },
+          { "band": "7–8", "text": "Consistently uses relevant vocabulary accurately; demonstrates excellent knowledge and understanding of content and concepts through detailed descriptions, explanations and examples." }
+        ],
+        "y3": [
+          { "band": "1–2", "text": "Makes limited use of terminology; demonstrates basic knowledge and understanding of content and concepts through limited descriptions and/or examples." },
+          { "band": "3–4", "text": "Uses some terminology accurately; demonstrates satisfactory knowledge and understanding of content and concepts through simple descriptions, explanations and examples." },
+          { "band": "5–6", "text": "Uses considerable and relevant terminology accurately; demonstrates substantial knowledge and understanding of content and concepts through descriptions, explanations and examples." },
+          { "band": "7–8", "text": "Consistently uses a range of terminology accurately; demonstrates excellent knowledge and understanding of content and concepts through developed and accurate descriptions, explanations and examples." }
+        ],
+        "y5": [
+          { "band": "1–2", "text": "Uses limited relevant terminology; demonstrates basic knowledge and understanding of content and concepts with minimal descriptions and/or examples." },
+          { "band": "3–4", "text": "Uses some terminology accurately and appropriately; demonstrates adequate knowledge and understanding of content and concepts through satisfactory descriptions, explanations and examples." },
+          { "band": "5–6", "text": "Uses a range of terminology accurately and appropriately; demonstrates substantial knowledge and understanding of content and concepts through accurate descriptions, explanations and examples." },
+          { "band": "7–8", "text": "Consistently uses a wide range of terminology effectively; demonstrates excellent knowledge and understanding of content and concepts through thorough, accurate descriptions, explanations and examples." }
+        ]
+      }
+    },
+    {
+      "id": "inv",
+      "label": "Investigating",
+      "criterion": "Criterion B",
+      "color": "#E8A44A",
+      "light": "#fae3bc",
+      "description": "Students develop systematic research skills and processes associated with disciplines in the humanities and social sciences. This criterion must always be combined with at least one other criterion in summative assessments. Students must engage in at least one investigation per year.",
+      "nodes": [
+        {
+          "label": "Formulate",
+          "detail": "a research question",
+          "description": "Students identify or formulate a clear and focused research question and justify or explain its relevance to the investigation. Complexity increases from explaining the choice (Y1) to justifying relevance independently with evidence (Y5).",
+          "progression": {
+            "y1": "Explains the choice of a research question. At 7–8: explains the choice effectively.",
+            "y3": "Formulates/chooses a clear and focused question and explains its relevance. At 7–8: explains relevance in full.",
+            "y5": "Formulates a clear and focused question and justifies its relevance. At 7–8: thoroughly justifies relevance with appropriate evidence."
+          },
+          "strand_full": "Formulate/explain/justify a clear and focused research question and its relevance (Strand i)."
+        },
+        {
+          "label": "Formulate & follow",
+          "detail": "an action plan",
+          "description": "Students create and follow an action plan — defining stages, methods, sources and sub-questions — to investigate their research question systematically. Plans become more comprehensive and consistently followed across years.",
+          "progression": {
+            "y1": "Follows an action plan to explore a research question. At 7–8: effectively follows a plan.",
+            "y3": "Formulates and follows an action plan to investigate. At 7–8: effectively follows a consistent action plan.",
+            "y5": "Formulates and follows a substantial action plan. At 7–8: effectively follows a comprehensive action plan."
+          },
+          "strand_full": "Formulate and follow an action plan to investigate a research question (Strand ii)."
+        },
+        {
+          "label": "Collect & record",
+          "detail": "information",
+          "description": "Students use appropriate research methods (questionnaires, surveys, interviews, observation, source selection, data analysis) to collect and record relevant information consistent with their research question.",
+          "progression": {
+            "y1": "Collects and records relevant information. At 7–8: uses methods to collect consistently relevant information.",
+            "y3": "Uses methods to collect and record relevant information. At 7–8: collects appropriate and varied relevant information.",
+            "y5": "Uses research methods to collect appropriate, relevant information. At 7–8: collects appropriate, varied and relevant information."
+          },
+          "strand_full": "Use research methods to collect and record relevant information (Strand iii)."
+        },
+        {
+          "label": "Reflect & evaluate",
+          "detail": "the investigation",
+          "description": "Students reflect on and evaluate the process and results of their investigation — considering the strengths and limitations of methods used and the quality of conclusions drawn. Independence in evaluation grows across years.",
+          "progression": {
+            "y1": "Reflects on the research process and results. At 7–8: thoroughly reflects on process and results.",
+            "y3": "Evaluates the research process and results, with guidance. At 7–8: provides a detailed evaluation with guidance.",
+            "y5": "Evaluates the process and results of the investigation. At 7–8: thoroughly evaluates the investigation process and results."
+          },
+          "strand_full": "Reflect on and evaluate the process and results of the investigation (Strand iv)."
+        }
+      ],
+      "levels": {
+        "y1": [
+          { "band": "1–2", "text": "Identifies a research question; follows an action plan in a limited way; collects and records information to a limited extent; with guidance, reflects on the research process and results to a limited extent." },
+          { "band": "3–4", "text": "Describes the choice of a research question; partially follows an action plan; uses a method(s) to collect and record some relevant information; with guidance, reflects on the research process and results with some depth." },
+          { "band": "5–6", "text": "Describes the choice of a research question in detail; mostly follows an action plan; uses method(s) to collect and record often relevant information; reflects on the research process and results." },
+          { "band": "7–8", "text": "Explains the choice of a research question; effectively follows an action plan; uses methods to collect and record consistently relevant information; thoroughly reflects on the research process and results." }
+        ],
+        "y3": [
+          { "band": "1–2", "text": "Identifies a research question that is clear, focused and relevant; formulates a limited action plan or does not follow a plan; collects and records limited or sometimes irrelevant information; with guidance, reflects on the research process and results in a limited way." },
+          { "band": "3–4", "text": "Formulates/chooses a research question that is clear and focused and describes its relevance; formulates and occasionally follows a partial action plan; uses a method(s) to collect and record some relevant information; with guidance, reflects on the research process and results." },
+          { "band": "5–6", "text": "Formulates/chooses a clear and focused research question and describes its relevance in detail; formulates and mostly follows a sufficiently developed action plan; uses methods to collect and record appropriate relevant information; with guidance, evaluates the research process and results." },
+          { "band": "7–8", "text": "Formulates/chooses a clear and focused research question and explains its relevance; formulates and effectively follows a consistent action plan; uses methods to collect and record appropriate and varied relevant information; with guidance, provides a detailed evaluation of the research process and results." }
+        ],
+        "y5": [
+          { "band": "1–2", "text": "Formulates a research question that is clear or focused and describes its relevance; formulates a limited action plan or does not follow a plan; collects and records limited information, not always consistent with the research question; makes a limited evaluation of the process and results." },
+          { "band": "3–4", "text": "Formulates a research question that is clear and focused and describes its relevance in detail; formulates and somewhat follows a partial action plan; uses a research method(s) to collect and record mostly relevant information; evaluates some aspects of the process and results." },
+          { "band": "5–6", "text": "Formulates a clear and focused research question and explains its relevance; formulates and follows a substantial action plan; uses research method(s) to collect and record appropriate, relevant information; evaluates the process and results of the investigation." },
+          { "band": "7–8", "text": "Formulates a clear and focused research question, thoroughly justifying its relevance with appropriate evidence; formulates and effectively follows a comprehensive action plan; uses research methods to collect and record appropriate, varied and relevant information; thoroughly evaluates the investigation process and results." }
+        ]
+      }
+    },
+    {
+      "id": "com",
+      "label": "Communicating",
+      "criterion": "Criterion C",
+      "color": "#6AAF6A",
+      "light": "#c8e8c8",
+      "description": "Students develop skills to organise, document and communicate their learning using a variety of media and presentation formats, with increasing attention to audience, purpose, structure and source documentation.",
+      "nodes": [
+        {
+          "label": "Communicate",
+          "detail": "information & ideas",
+          "description": "Students communicate information and ideas clearly, using a style appropriate to the intended audience and purpose. This may take the form of written reports, oral presentations, cartoons, maps, diagrams, multimedia, podcasts, videos and more.",
+          "progression": {
+            "y1": "Communicates information and ideas with clarity. At 7–8: completely clear communication.",
+            "y3": "Communicates in a way appropriate for the audience and purpose. At 7–8: completely appropriate communication.",
+            "y5": "Communicates effectively using an appropriate style for the audience and purpose. At 7–8: effectively and accurately, completely appropriate to audience and purpose."
+          },
+          "strand_full": "Communicate information and ideas clearly/effectively using an appropriate style for the audience and purpose (Strand i)."
+        },
+        {
+          "label": "Structure",
+          "detail": "information & ideas",
+          "description": "Students organise and structure their information and ideas in a way that is appropriate to the task format — whether essay, report, presentation, blog, letter, poster or other specified format.",
+          "progression": {
+            "y1": "Organises information and ideas effectively for the task. At 7–8: completely organises effectively.",
+            "y3": "Structures information and ideas according to task instructions. At 7–8: structures completely according to instructions.",
+            "y5": "Structures information and ideas appropriate to the specified format. At 7–8: completely appropriate to the specified format."
+          },
+          "strand_full": "Structure/organise information and ideas in a way appropriate to the task format (Strand ii)."
+        },
+        {
+          "label": "Document",
+          "detail": "sources",
+          "description": "Students acknowledge and document their sources of information using a recognised referencing convention (e.g. MLA, APA). Expectations escalate from listing sources following task instructions (Y1) to consistently using a recognised convention independently (Y5).",
+          "progression": {
+            "y1": "Lists sources of information following task instructions. At 7–8: always follows task instructions.",
+            "y3": "Creates a reference list and cites sources of information. At 7–8: complete reference list and always cites sources.",
+            "y5": "Documents sources using a recognized convention. At 7–8: consistently documents using a recognized convention."
+          },
+          "strand_full": "Document/list sources of information using a recognised convention (Strand iii)."
+        }
+      ],
+      "levels": {
+        "y1": [
+          { "band": "1–2", "text": "Communicates information and ideas in a style that is not always clear; organizes information and ideas in a limited way; inconsistently lists sources, not following the task instructions." },
+          { "band": "3–4", "text": "Communicates information and ideas in a way that is somewhat clear; somewhat organizes information and ideas; lists sources in a way that sometimes follows the task instructions." },
+          { "band": "5–6", "text": "Communicates information and ideas in a way that is mostly clear; mostly organizes information and ideas; lists sources in a way that often follows the task instructions." },
+          { "band": "7–8", "text": "Communicates information and ideas in a way that is completely clear; completely organizes information and ideas effectively; lists sources in a way that always follows the task instructions." }
+        ],
+        "y3": [
+          { "band": "1–2", "text": "Communicates information and ideas in a way that is not always appropriate to the audience and purpose; organizes information and ideas in a limited way; lists sources of information inconsistently." },
+          { "band": "3–4", "text": "Communicates information and ideas in a way that is somewhat appropriate to the audience and purpose; somewhat organizes information and ideas; creates an adequate reference list and sometimes cites sources." },
+          { "band": "5–6", "text": "Communicates information and ideas in a way that is mostly appropriate to the audience and purpose; mostly structures information and ideas according to the task instructions; creates an adequate reference list and usually cites sources." },
+          { "band": "7–8", "text": "Communicates information and ideas in a way that is completely appropriate to the audience and purpose; structures information and ideas completely according to the task instructions; creates a complete reference list and always cites sources." }
+        ],
+        "y5": [
+          { "band": "1–2", "text": "Communicates information and ideas in a limited way, using a style limited in its appropriateness to the audience and purpose; structures information and ideas according to the specified format in a limited way; documents sources of information in a limited way." },
+          { "band": "3–4", "text": "Communicates information and ideas satisfactorily by using a style that is somewhat appropriate to the audience and purpose; structures information and ideas in a way that is somewhat appropriate to the specified format; sometimes documents sources using a recognized convention." },
+          { "band": "5–6", "text": "Communicates information and ideas accurately by using a style that is mostly appropriate to the audience and purpose; structures information and ideas in a way that is mostly appropriate to the specified format; often documents sources using a recognized convention." },
+          { "band": "7–8", "text": "Communicates information and ideas effectively and accurately by using a style that is completely appropriate to the audience and purpose; structures information and ideas in a way that is completely appropriate to the specified format; consistently documents sources using a recognized convention." }
+        ]
+      }
+    },
+    {
+      "id": "tc",
+      "label": "Thinking\nCritically",
+      "criterion": "Criterion D",
+      "color": "#C96060",
+      "light": "#f5c8c8",
+      "description": "Students use critical thinking skills to develop and apply their understanding of individuals and societies and the process of investigation, including discussing concepts, synthesising arguments, evaluating sources and interpreting perspectives.",
+      "nodes": [
+        {
+          "label": "Discuss",
+          "detail": "concepts, issues & theories",
+          "description": "Students analyse, discuss and evaluate concepts, issues, models, visual representations and theories encountered in their study of individuals and societies. The complexity and depth of engagement increases from identification (Y1) to detailed discussion (Y5).",
+          "progression": {
+            "y1": "Identifies the main points of ideas, events, visual representations or arguments. At 7–8: identifies in detail.",
+            "y3": "Analyses concepts, issues, models, visual representations and/or theories. At 7–8: detailed analysis.",
+            "y5": "Discusses concepts, issues, models, visual representations and theories. At 7–8: completes a detailed discussion."
+          },
+          "strand_full": "Identify/analyse/discuss concepts, issues, models, visual representations and theories (Strand i)."
+        },
+        {
+          "label": "Synthesize",
+          "detail": "information & arguments",
+          "description": "Students use information to justify opinions, summarise arguments, or synthesise information to make valid, well-supported arguments. This strand moves from justifying an opinion (Y1) through summarising (Y3) to full synthesis of evidence (Y5).",
+          "progression": {
+            "y1": "Uses information to justify an opinion. At 7–8: gives detailed justification using information.",
+            "y3": "Summarizes information to make valid, well-supported arguments. At 7–8: consistent, well-supported arguments.",
+            "y5": "Synthesizes information to make valid, well-supported arguments. At 7–8: synthesizes to make valid, well-supported arguments."
+          },
+          "strand_full": "Use/summarize/synthesize information to justify opinions and make valid, well-supported arguments (Strand ii)."
+        },
+        {
+          "label": "Analyse & evaluate",
+          "detail": "sources & data",
+          "description": "Students analyse and evaluate a range of sources and data in terms of origin and purpose, examining their value and limitations. This includes primary and secondary sources, quantitative and qualitative data, and multiple cultural and historical perspectives.",
+          "progression": {
+            "y1": "Identifies and analyses a range of sources/data in terms of origin and purpose. At 7–8: consistently identifies and analyses.",
+            "y3": "Analyses a range of sources/data in terms of origin and purpose, recognizing value and limitations. At 7–8: effectively analyses, consistently recognizing value and limitations.",
+            "y5": "Analyses and evaluates a range of sources/data in terms of origin and purpose, examining value and limitations. At 7–8: effectively analyses and evaluates, consistently recognizing value and limitations."
+          },
+          "strand_full": "Analyse and evaluate a range of sources/data in terms of origin and purpose, examining value and limitations (Strand iii)."
+        },
+        {
+          "label": "Interpret",
+          "detail": "perspectives & implications",
+          "description": "Students identify, recognise, and interpret different perspectives and their implications. This develops from identifying different views (Y1) to recognising perspectives with explanation (Y3) to thoroughly interpreting a range of perspectives and their implications (Y5).",
+          "progression": {
+            "y1": "Identifies different views and their implications. At 7–8: consistently identifies different views and their implications.",
+            "y3": "Recognizes different perspectives and explains their implications. At 7–8: clearly recognizes and consistently explains implications.",
+            "y5": "Interprets different perspectives and their implications. At 7–8: thoroughly interprets a range of different perspectives and their implications."
+          },
+          "strand_full": "Identify/recognise/interpret different perspectives and their implications (Strand iv)."
+        }
+      ],
+      "levels": {
+        "y1": [
+          { "band": "1–2", "text": "Identifies the main points of ideas, events, visual representations or arguments to a limited extent; rarely uses information to justify opinions; identifies the origin and purpose of limited sources/data; identifies some different views." },
+          { "band": "3–4", "text": "Identifies some main points of ideas, events, visual representations or arguments; justifies opinions with some information; identifies the origin and purpose of sources/data; identifies some different views and suggests some of their implications." },
+          { "band": "5–6", "text": "Identifies the main points of ideas, events, visual representations or arguments; gives sufficient justification of opinions using information; identifies the origin and purpose of a range of sources/data; identifies different views and most of their implications." },
+          { "band": "7–8", "text": "Identifies in detail the main points of ideas, events, visual representations or arguments; gives detailed justification of opinions using information; consistently identifies and analyses a range of sources/data in terms of origin and purpose; consistently identifies different views and their implications." }
+        ],
+        "y3": [
+          { "band": "1–2", "text": "Begins to analyse concepts, issues, models, visual representation and/or theories in a limited way; begins to identify connections between information to make simple arguments; recognizes the origin and purpose of few sources/data as well as nominal value and limitations; identifies different perspectives." },
+          { "band": "3–4", "text": "Completes a simple analysis of concepts, issues, models, visual representation and/or theories; summarizes information to make some adequate arguments; analyses sources/data in terms of origin and purpose, recognizing some value and limitations; recognizes different perspectives and suggests some of their implications." },
+          { "band": "5–6", "text": "Completes a suitable analysis of concepts, issues, models, visual representation and/or theories; summarizes information in order to make usually valid arguments; analyses sources/data in terms of origin and purpose, usually recognizing value and limitations; clearly recognizes different perspectives and describes most of their implications." },
+          { "band": "7–8", "text": "Completes a detailed analysis of concepts, issues, models, visual representation and/or theories; summarizes information to make consistent, well-supported arguments; effectively analyses a range of sources/data in terms of origin and purpose, consistently recognizing value and limitations; clearly recognizes different perspectives and consistently explains their implications." }
+        ],
+        "y5": [
+          { "band": "1–2", "text": "Analyses concepts, issues, models, visual representation and theories to a limited extent; summarizes information to a limited extent to make arguments; describes a limited number of sources/data in terms of origin and purpose and recognizes nominal value and limitations; identifies different perspectives and minimal implications." },
+          { "band": "3–4", "text": "Analyses concepts, issues, models, visual representation and theories; summarizes information to make arguments; analyses and/or evaluates sources/data in terms of origin and purpose, recognizing some value and limitations; interprets different perspectives and some of their implications." },
+          { "band": "5–6", "text": "Discusses concepts, issues, models, visual representation and theories; synthesizes information to make valid arguments; effectively analyses and evaluates a range of sources/data in terms of origin and purpose, usually recognizing value and limitations; interprets different perspectives and their implications." },
+          { "band": "7–8", "text": "Completes a detailed discussion of concepts, issues, models, visual representation and theories; synthesizes information to make valid, well-supported arguments; effectively analyses and evaluates a range of sources/data in terms of origin and purpose, consistently recognizing value and limitations; thoroughly interprets a range of different perspectives and their implications." }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,534 @@
+{
+  "title": "MYP Physical & Health Education",
+  "subtitle": "Learning Map",
+  "overview": {
+    "title": "MYP Physical & Health Education Overview",
+    "description": "Select a criterion from the diagram to explore, or click the centre circle to return to this overview.",
+    "sections": [
+      {
+        "title": "Programme Model",
+        "quote": "The MYP is flexible enough to accommodate the demands of most national or local curriculums.",
+        "text": "MYP physical and health education is structured around concepts, global contexts and approaches to learning (ATL). It focuses on both learning about and learning through physical activity, promoting the holistic nature of well-being."
+      },
+      {
+        "title": "Nature of Physical & Health Education",
+        "quote": "Physical fitness is not only one of the most important keys to a healthy body, it is the basis of dynamic and creative intellectual activity.",
+        "text": "MYP physical and health education aims to empower students to understand and appreciate the value of being physically active and develop the motivation for making healthy life choices. Students explore concepts that foster an awareness of physical development and health perspectives, promoting positive social interaction."
+      },
+      {
+        "title": "Curriculum Planning",
+        "text": "The table below shows how teaching and learning experiences and expected outcomes should progress from the earlier years to the final years of the MYP.",
+        "progression_table": {
+          "headers": [
+            "MYP Year 1",
+            "MYP Year 3",
+            "MYP Year 5"
+          ],
+          "rows": [
+            [
+              "Students explore contrived, teacher-led activities set in familiar contexts.",
+              "Students engage in more complex tasks set in familiar and unfamiliar contexts.",
+              "Students independently engage with complex real-life situations and unfamiliar contexts."
+            ],
+            [
+              "Emphasis placed on individual strands of the objectives.",
+              "Emphasis placed on addressing individual objectives.",
+              "The objectives are fully addressed."
+            ],
+            [
+              "Recall and apply skills, techniques, strategies and movement concepts.",
+              "Demonstrate and apply skills, techniques, strategies and movement concepts.",
+              "Demonstrate and apply a range of skills, techniques, strategies and movement concepts effectively."
+            ],
+            [
+              "Identify goals and construct a basic plan for improving physical activity and health.",
+              "Outline goals and design and explain a plan for improving physical performance and health.",
+              "Develop goals and design, explain and justify a plan to improve physical performance and health."
+            ],
+            [
+              "Teacher as leader and trainer.",
+              "Teacher as guide and advisor.",
+              "Teacher as facilitator."
+            ]
+          ]
+        }
+      },
+      {
+        "title": "Key and Related Concepts",
+        "text": "The key concepts contributed by the study of physical and health education are Change, Communication, Development and Relationships.",
+        "concepts": {
+          "key": [
+            "Change",
+            "Communication",
+            "Development",
+            "Relationships"
+          ],
+          "related": [
+            {
+              "label": "Physical & Health Education",
+              "items": [
+                {
+                  "name": "Adaptation",
+                  "definition": "The adjustment or changing of a skill, technique, strategy, tactic, process or choice in order to enhance its suitability to meet the needs of a situation or application."
+                },
+                {
+                  "name": "Balance",
+                  "definition": "A state of equilibrium between contrasting, opposing, or interacting factors — from aesthetically pleasing movement routines to equal importance placed on each dimension of health."
+                },
+                {
+                  "name": "Choice",
+                  "definition": "Making a decision between at least two alternatives. Choices in PE range from rapid in-game decisions to longer-term decisions about nutrition and fitness development."
+                },
+                {
+                  "name": "Energy",
+                  "definition": "A fundamental entity transferred between parts of a system in the production of change. Energy levels influence all aspects of human life, from thinking and decision-making to physical activity."
+                },
+                {
+                  "name": "Environment",
+                  "definition": "The circumstances, objects or conditions by which an individual is surrounded. Environmental factors influence effective performance of techniques, skills, strategies and tactics."
+                },
+                {
+                  "name": "Function",
+                  "definition": "The action or role that something is specifically designed for or used to do — from the function of body systems to the function of a specific player role within a team."
+                },
+                {
+                  "name": "Interaction",
+                  "definition": "The result of two or more objects, groups or ideas affecting each other. Successful interactions can contribute to improved personal, social and performance outcomes."
+                },
+                {
+                  "name": "Movement",
+                  "definition": "The types and ways in which objects move. Sporting movements are normally divided into offensive (attacking) and defensive categories, with various degrees within each."
+                },
+                {
+                  "name": "Perspective",
+                  "definition": "Enables the development of different interpretations, understandings and findings. Seeking multiple perspectives is crucial to personal, mental and social health development and to effective sporting tactics."
+                },
+                {
+                  "name": "Refinement",
+                  "definition": "The process of modifying something to enhance its overall effectiveness. Refinements can occur in relation to personal behaviours, thought processes, techniques, tactics and strategies."
+                },
+                {
+                  "name": "Space",
+                  "definition": "The physical dimensions of a playing or performance area, the distance between people or objects, and the opportunity to experience something. Space can be created, adapted, used, taken, won and lost."
+                },
+                {
+                  "name": "Systems",
+                  "definition": "Sets of interacting or interdependent components that form an integrated whole. Effective game play relies on participants' understanding of multiple systems, including their components and interactions."
+                }
+              ]
+            }
+          ],
+          "key_definitions": [
+            {
+              "name": "Change",
+              "definition": "A conversion, transformation, or movement from one form, state or value to another. In PE, individuals and teams change strategies and tactics in response to stimuli. Change is an essential aspect of human development, and courses can help foster positive personal, social, emotional, mental and physical change."
+            },
+            {
+              "name": "Communication",
+              "definition": "The exchange or transfer of signals, facts, ideas and symbols. PE requires students to utilise, create, adapt and understand a variety of strategic communication tools, both verbal and non-verbal. Communication is an essential part of all personal and social development."
+            },
+            {
+              "name": "Development",
+              "definition": "The act or process of growth, progress or evolution, sometimes through iterative improvements. Ongoing development is an essential aspect of health literacy. Through practice, students develop confidence, acquire competencies, and develop a more sophisticated understanding of what it means to be healthy."
+            },
+            {
+              "name": "Relationships",
+              "definition": "The connections and associations between properties, objects, people and ideas. Through PE, students develop and reflect on a wide variety of personal and social relationships in which they can assess and develop their interpersonal skills."
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "assessment_overview": {
+    "intro": "Each criterion has eight possible achievement levels (1–8), divided into four bands representing performance that is: limited (1–2), adequate (3–4), substantial (5–6), and excellent (7–8). Each band has its own unique descriptor used to make best-fit judgments.",
+    "requirement": "Subject groups must assess all strands of all four assessment criteria at least twice in each year of the MYP."
+  },
+  "phases": [
+    {
+      "id": "ku",
+      "label": "Knowing &\nUnderstanding",
+      "criterion": "Criterion A",
+      "color": "#4A90C4",
+      "light": "#cde3f5",
+      "description": "Students develop knowledge and understanding about health and physical activity in order to identify and solve problems. This criterion is assessed only through written or oral tasks in non-performance/non-playing situations.",
+      "nodes": [
+        {
+          "label": "Explain",
+          "detail": "factual, procedural & conceptual knowledge",
+          "description": "Students outline, describe and explain physical and health education factual, procedural and conceptual knowledge — covering components of fitness, training methods, training principles, nutrition, biomechanics, exercise physiology and issues in sport.",
+          "progression": {
+            "y1": "Recalls and states physical and health education factual, procedural and conceptual knowledge.",
+            "y3": "States and outlines physical and health education factual, procedural and conceptual knowledge with growing depth.",
+            "y5": "Explains physical and health education factual, procedural and conceptual knowledge clearly and accurately."
+          },
+          "strand_full": "Explain physical and health education factual, procedural and conceptual knowledge."
+        },
+        {
+          "label": "Analyse",
+          "detail": "issues & solve problems",
+          "description": "Students apply their physical and health education knowledge to describe, explain and analyse issues and solve problems set in both familiar and unfamiliar situations, demonstrating transfer of understanding.",
+          "progression": {
+            "y1": "Identifies knowledge to describe issues and suggest or solve problems set in familiar situations.",
+            "y3": "Applies knowledge to describe and explain issues and solve problems in familiar and begin to address unfamiliar situations.",
+            "y5": "Applies knowledge to analyse complex issues and solve complex problems set in familiar and unfamiliar situations."
+          },
+          "strand_full": "Apply physical and health education knowledge to analyse issues and solve problems set in familiar and unfamiliar situations."
+        },
+        {
+          "label": "Apply",
+          "detail": "physical & health terminology",
+          "description": "Students use subject-specific vocabulary accurately and consistently to communicate their understanding. Effective use of terminology signals depth of conceptual knowledge and clarity of thought.",
+          "progression": {
+            "y1": "Applies physical and health terminology to communicate understanding, with developing accuracy.",
+            "y3": "Applies physical and health terminology consistently to communicate understanding.",
+            "y5": "Applies physical and health terminology consistently and effectively to communicate understanding."
+          },
+          "strand_full": "Apply physical and health terminology effectively to communicate understanding."
+        }
+      ],
+      "levels": {
+        "y1": [
+          {
+            "band": "1–2",
+            "text": "The student: i. recalls some physical and health education factual, procedural and conceptual knowledge; ii. identifies knowledge to outline issues; iii. recalls physical and health terminology."
+          },
+          {
+            "band": "3–4",
+            "text": "The student: i. recalls physical and health education factual, procedural and conceptual knowledge; ii. identifies knowledge to outline issues and suggest solutions to problems set in familiar situations; iii. applies physical and health terminology to communicate understanding with limited success."
+          },
+          {
+            "band": "5–6",
+            "text": "The student: i. states physical and health education factual, procedural and conceptual knowledge; ii. identifies knowledge to outline issues and solve problems set in familiar situations; iii. applies physical and health terminology to communicate understanding."
+          },
+          {
+            "band": "7–8",
+            "text": "The student: i. outlines physical and health education factual, procedural and conceptual knowledge; ii. identifies knowledge to describe issues and solve problems set in familiar and unfamiliar situations; iii. applies physical and health terminology consistently to communicate understanding."
+          }
+        ],
+        "y3": [
+          {
+            "band": "1–2",
+            "text": "The student: i. recalls physical and health education factual, procedural and conceptual knowledge; ii. identifies knowledge to outline issues and suggest solutions to problems set in familiar situations; iii. applies physical and health terminology to communicate understanding with limited success."
+          },
+          {
+            "band": "3–4",
+            "text": "The student: i. states physical and health education factual, procedural and conceptual knowledge; ii. identifies knowledge to describe issues and to solve problems set in familiar situations; iii. applies physical and health terminology to communicate understanding."
+          },
+          {
+            "band": "5–6",
+            "text": "The student: i. outlines physical and health education factual, procedural and conceptual knowledge; ii. applies knowledge to describe issues, solve problems set in familiar situations and suggest solutions to problems in unfamiliar situations; iii. applies physical and health terminology consistently to communicate understanding."
+          },
+          {
+            "band": "7–8",
+            "text": "The student: i. describes physical and health education factual, procedural and conceptual knowledge; ii. applies knowledge to explain issues and solve problems set in familiar and unfamiliar situations; iii. applies physical and health terminology consistently and effectively to communicate understanding."
+          }
+        ],
+        "y5": [
+          {
+            "band": "1–2",
+            "text": "The student: i. states physical and health education factual, procedural and conceptual knowledge; ii. applies knowledge to investigate issues and suggest solutions to problems set in familiar situations; iii. applies physical and health terminology to communicate understanding with limited success."
+          },
+          {
+            "band": "3–4",
+            "text": "The student: i. outlines physical and health education factual, procedural and conceptual knowledge; ii. applies knowledge to analyse issues and solve problems set in familiar situations; iii. applies physical and health terminology to communicate understanding."
+          },
+          {
+            "band": "5–6",
+            "text": "The student: i. identifies physical and health education factual, procedural and conceptual knowledge; ii. applies knowledge to analyse issues and solve problems set in familiar and unfamiliar situations; iii. applies physical and health terminology consistently to communicate understanding."
+          },
+          {
+            "band": "7–8",
+            "text": "The student: i. explains physical and health education factual, procedural and conceptual knowledge; ii. applies knowledge to analyse complex issues and solve complex problems set in familiar and unfamiliar situations; iii. applies physical and health terminology consistently and effectively to communicate understanding."
+          }
+        ]
+      }
+    },
+    {
+      "id": "pp",
+      "label": "Planning for\nPerformance",
+      "criterion": "Criterion B",
+      "color": "#E8A44A",
+      "light": "#fae3bc",
+      "description": "Students design, analyse, evaluate and perform a plan in order to improve performance in physical and health education. This criterion can be assessed through aesthetic movement routines, fitness training programmes, coaching programmes, game creation and laboratory investigations.",
+      "nodes": [
+        {
+          "label": "Develop",
+          "detail": "goals to enhance performance",
+          "description": "Students identify, list, outline, explain and develop specific, realistic goals to enhance their physical performance or health. Goals should be grounded in an understanding of current ability and desired improvement, and become increasingly detailed and justified across the MYP years.",
+          "progression": {
+            "y1": "Identifies goals to enhance performance — stated simply and clearly.",
+            "y3": "Outlines goals to enhance performance with developing specificity.",
+            "y5": "Develops goals to enhance performance with full justification and detail."
+          },
+          "strand_full": "Develop goals to enhance performance."
+        },
+        {
+          "label": "Design, explain & justify",
+          "detail": "a plan",
+          "description": "Students construct, design, explain and justify a plan for improving physical performance and health. Plans should address the identified goals, apply relevant physical and health education knowledge, and become progressively more detailed, explained and justified as students advance through the programme.",
+          "progression": {
+            "y1": "Constructs and outlines a basic plan for improving physical activity and health.",
+            "y3": "Designs and explains a plan for improving physical performance and health.",
+            "y5": "Designs, explains and justifies a plan to improve physical performance and health."
+          },
+          "strand_full": "Design, explain and justify a plan to improve physical performance and health."
+        }
+      ],
+      "levels": {
+        "y1": [
+          {
+            "band": "1–2",
+            "text": "The student: i. states a goal to enhance performance; ii. states a plan for improving physical activity and health."
+          },
+          {
+            "band": "3–4",
+            "text": "The student: i. defines a goal to enhance performance; ii. outlines a basic plan for improving physical activity and health."
+          },
+          {
+            "band": "5–6",
+            "text": "The student: i. lists goals to enhance performance; ii. outlines a plan for improving physical activity and health."
+          },
+          {
+            "band": "7–8",
+            "text": "The student: i. identifies goals to enhance performance; ii. constructs a plan for improving physical activity and health."
+          }
+        ],
+        "y3": [
+          {
+            "band": "1–2",
+            "text": "The student: i. states a goal to enhance performance; ii. outlines a limited plan for improving physical performance and health."
+          },
+          {
+            "band": "3–4",
+            "text": "The student: i. lists goals to enhance performance; ii. outlines a plan for improving physical performance and health."
+          },
+          {
+            "band": "5–6",
+            "text": "The student: i. identifies goals to enhance performance; ii. designs a plan for improving physical performance and health."
+          },
+          {
+            "band": "7–8",
+            "text": "The student: i. outlines goals to enhance performance; ii. designs and explains a plan for improving physical performance and health."
+          }
+        ],
+        "y5": [
+          {
+            "band": "1–2",
+            "text": "The student: i. identifies goals to enhance performance; ii. constructs a plan to improve physical performance and health."
+          },
+          {
+            "band": "3–4",
+            "text": "The student: i. outlines goals to enhance performance; ii. constructs and describes a plan to improve physical performance and health."
+          },
+          {
+            "band": "5–6",
+            "text": "The student: i. explains goals to enhance performance; ii. designs and explains a plan to improve physical performance and health."
+          },
+          {
+            "band": "7–8",
+            "text": "The student: i. develops goals to enhance performance; ii. designs, explains and justifies a plan to improve physical performance and health."
+          }
+        ]
+      }
+    },
+    {
+      "id": "ap",
+      "label": "Applying &\nPerforming",
+      "criterion": "Criterion C",
+      "color": "#6AAF6A",
+      "light": "#c8e8c8",
+      "description": "Students develop and apply practical skills, techniques, strategies and movement concepts through participation in a variety of physical activities. This criterion must be assessed in performance/playing situations and is not appropriate for assessing replication of movement routines or umpiring/refereeing.",
+      "nodes": [
+        {
+          "label": "Demonstrate & apply",
+          "detail": "skills & techniques",
+          "description": "Students recall, demonstrate and apply a range of skills and techniques effectively across a variety of physical activities. This includes accuracy, efficiency, control, coordination, timing, fluency, speed and power — with increasing range and effectiveness as students progress.",
+          "progression": {
+            "y1": "Recalls and applies skills and techniques with developing consistency.",
+            "y3": "Demonstrates and applies a range of skills and techniques with increasing competence.",
+            "y5": "Demonstrates and applies a range of skills and techniques effectively across a variety of contexts."
+          },
+          "strand_full": "Demonstrate and apply a range of skills and techniques effectively."
+        },
+        {
+          "label": "Demonstrate & apply",
+          "detail": "strategies & movement concepts",
+          "description": "Students recall, demonstrate and apply a range of strategies and movement concepts effectively. This includes the use of space, force, flow of movement and adaptation to various situations — in both individual and team contexts.",
+          "progression": {
+            "y1": "Recalls and applies strategies and movement concepts in familiar activity contexts.",
+            "y3": "Demonstrates and applies a range of strategies and movement concepts with growing effectiveness.",
+            "y5": "Demonstrates and applies a range of strategies and movement concepts effectively in varied and complex situations."
+          },
+          "strand_full": "Demonstrate and apply a range of strategies and movement concepts effectively."
+        },
+        {
+          "label": "Analyse & apply",
+          "detail": "information to perform",
+          "description": "Students recall, outline and analyse information to perform effectively. This includes reading the situation, processing information, responding to feedback and making appropriate decisions — demonstrating increasingly sophisticated tactical thinking as they progress through the programme.",
+          "progression": {
+            "y1": "Recalls and applies some information to perform effectively in familiar situations.",
+            "y3": "Outlines and applies information to perform effectively with growing independence.",
+            "y5": "Analyses and applies information to perform effectively, demonstrating sophisticated decision-making."
+          },
+          "strand_full": "Analyse and apply information to perform effectively."
+        }
+      ],
+      "levels": {
+        "y1": [
+          {
+            "band": "1–2",
+            "text": "The student: i. recalls limited skills and techniques; ii. recalls limited strategies and movement concepts; iii. recalls limited information to perform."
+          },
+          {
+            "band": "3–4",
+            "text": "The student: i. recalls some skills and techniques; ii. recalls some strategies and movement concepts; iii. recalls some information to perform."
+          },
+          {
+            "band": "5–6",
+            "text": "The student: i. recalls and applies some skills and techniques; ii. recalls and applies some strategies and movement concepts; iii. recalls and applies some information to perform effectively."
+          },
+          {
+            "band": "7–8",
+            "text": "The student: i. recalls and applies a range of skills and techniques; ii. recalls and applies a range of strategies and movement concepts; iii. recalls and applies information to perform effectively."
+          }
+        ],
+        "y3": [
+          {
+            "band": "1–2",
+            "text": "The student: i. recalls and applies skills and techniques with limited success; ii. recalls and applies strategies and movement concepts with limited success; iii. recalls and applies information to perform."
+          },
+          {
+            "band": "3–4",
+            "text": "The student: i. demonstrates and applies skills and techniques with limited success; ii. demonstrates and applies strategies and movement concepts with limited success; iii. identifies and applies information to perform."
+          },
+          {
+            "band": "5–6",
+            "text": "The student: i. demonstrates and applies skills and techniques; ii. demonstrates and applies strategies and movement concepts; iii. identifies and applies information to perform effectively."
+          },
+          {
+            "band": "7–8",
+            "text": "The student: i. demonstrates and applies a range of skills and techniques; ii. demonstrates and applies a range of strategies and movement concepts; iii. outlines and applies information to perform effectively."
+          }
+        ],
+        "y5": [
+          {
+            "band": "1–2",
+            "text": "The student: i. demonstrates and applies skills and techniques with limited success; ii. demonstrates and applies strategies and movement concepts with limited success; iii. recalls information to perform."
+          },
+          {
+            "band": "3–4",
+            "text": "The student: i. demonstrates and applies skills and techniques; ii. demonstrates and applies strategies and movement concepts; iii. identifies and applies information to perform."
+          },
+          {
+            "band": "5–6",
+            "text": "The student: i. demonstrates and applies a range of skills and techniques; ii. demonstrates and applies a range of strategies and movement concepts; iii. analyses and applies information to perform."
+          },
+          {
+            "band": "7–8",
+            "text": "The student: i. demonstrates and applies a range of skills and techniques effectively; ii. demonstrates and applies a range of strategies and movement concepts effectively; iii. analyses and applies information to perform effectively."
+          }
+        ]
+      }
+    },
+    {
+      "id": "ri",
+      "label": "Reflecting &\nImproving",
+      "criterion": "Criterion D",
+      "color": "#C96060",
+      "light": "#f5c8c8",
+      "description": "Students enhance their personal and social development, set goals, take responsible action and reflect on their performance and the performance of others. This criterion is appropriate for assessing personal and social development in sports/performance leadership and officiating.",
+      "nodes": [
+        {
+          "label": "Explain & demonstrate",
+          "detail": "interpersonal skills",
+          "description": "Students identify, describe and demonstrate strategies to enhance their interpersonal skills in physical and health education contexts — including communication, collaboration, leadership, sportsmanship and peer feedback. The depth of demonstration and explanation increases across the programme.",
+          "progression": {
+            "y1": "Identifies and demonstrates strategies to enhance interpersonal skills in familiar PE contexts.",
+            "y3": "Describes and demonstrates strategies to enhance interpersonal skills with growing awareness.",
+            "y5": "Explains and demonstrates strategies to enhance interpersonal skills clearly and with critical reflection."
+          },
+          "strand_full": "Explain and demonstrate strategies to enhance interpersonal skills."
+        },
+        {
+          "label": "Analyse & evaluate",
+          "detail": "the effectiveness of a plan",
+          "description": "Students describe, explain, analyse and evaluate the effectiveness of their performance improvement plan based on actual outcomes. This strand requires students to make connections between their planning and their results, with increasing analytical rigour across the years.",
+          "progression": {
+            "y1": "Describes the effectiveness of a plan, linked to outcomes.",
+            "y3": "Explains the effectiveness of a plan based on the outcome with reference to evidence.",
+            "y5": "Analyses and evaluates the effectiveness of a plan based on the outcome, with justified conclusions."
+          },
+          "strand_full": "Analyse and evaluate the effectiveness of a plan based on the outcome."
+        },
+        {
+          "label": "Analyse & evaluate",
+          "detail": "performance",
+          "description": "Students describe, explain, analyse and evaluate their own performance and the performance of others. Evaluations should be evidence-based and connected to identified goals, becoming increasingly analytical, specific and evaluative as students progress through the programme.",
+          "progression": {
+            "y1": "Describes and summarizes performance using basic observation.",
+            "y3": "Explains and evaluates performance with growing specificity and use of evidence.",
+            "y5": "Analyses and evaluates performance critically and in depth, using evidence and informed judgment."
+          },
+          "strand_full": "Analyse and evaluate performance."
+        }
+      ],
+      "levels": {
+        "y1": [
+          {
+            "band": "1–2",
+            "text": "The student: i. identifies a strategy to enhance interpersonal skills; ii. identifies the effectiveness of a plan; iii. outlines performance."
+          },
+          {
+            "band": "3–4",
+            "text": "The student: i. identifies strategies to enhance interpersonal skills; ii. states the effectiveness of a plan; iii. describes performance."
+          },
+          {
+            "band": "5–6",
+            "text": "The student: i. identifies and sometimes demonstrates strategies to enhance interpersonal skills; ii. describes the effectiveness of a plan; iii. outlines and summarizes performance."
+          },
+          {
+            "band": "7–8",
+            "text": "The student: i. identifies and demonstrates strategies to enhance interpersonal skills; ii. describes the effectiveness of a plan based on the outcome; iii. describes and summarizes performance."
+          }
+        ],
+        "y3": [
+          {
+            "band": "1–2",
+            "text": "The student: i. identifies strategies to enhance interpersonal skills; ii. states the effectiveness of a plan; iii. outlines performance."
+          },
+          {
+            "band": "3–4",
+            "text": "The student: i. identifies and demonstrates strategies to enhance interpersonal skills; ii. states the effectiveness of a plan based on the outcome; iii. outlines and summarizes performance."
+          },
+          {
+            "band": "5–6",
+            "text": "The student: i. outlines and demonstrates strategies to enhance interpersonal skills; ii. describes the effectiveness of a plan based on the outcome; iii. outlines and evaluates performance."
+          },
+          {
+            "band": "7–8",
+            "text": "The student: i. describes and demonstrates strategies to enhance interpersonal skills; ii. explains the effectiveness of a plan based on the outcome; iii. explains and evaluates performance."
+          }
+        ],
+        "y5": [
+          {
+            "band": "1–2",
+            "text": "The student: i. identifies and demonstrates strategies to enhance interpersonal skills; ii. outlines the effectiveness of a plan based on the outcome; iii. outlines and summarizes performance."
+          },
+          {
+            "band": "3–4",
+            "text": "The student: i. outlines and demonstrates strategies to enhance interpersonal skills; ii. explains the effectiveness of a plan based on the outcome; iii. describes and summarizes performance."
+          },
+          {
+            "band": "5–6",
+            "text": "The student: i. describes and demonstrates strategies to enhance interpersonal skills; ii. analyses the effectiveness of a plan based on the outcome; iii. explains and evaluates performance."
+          },
+          {
+            "band": "7–8",
+            "text": "The student: i. explains and demonstrates strategies to enhance interpersonal skills; ii. analyses and evaluates the effectiveness of a plan based on the outcome; iii. analyses and evaluates performance."
+          }
+        ]
+      }
+    }
+  ]
+}

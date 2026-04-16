@@ -1,0 +1,535 @@
+{
+  "title": "MYP Language Acquisition",
+  "subtitle": "Learning Map",
+  "overview": {
+    "title": "Language Acquisition Overview",
+    "description": "Select a criterion from the diagram to explore, or click the centre circle to return to this overview.",
+    "sections": [
+      {
+        "title": "Programme Model",
+        "quote": "Learning to speak another's language means taking one's place in the human community. Language is culture in motion. It is people interacting with people.",
+        "text": "MYP Language Acquisition develops multiliteracy skills across listening, reading, speaking and writing. Learning is organised into six phases across three proficiency levels — emergent, capable and proficient — allowing students to enter and exit the continuum based on their prior experience."
+      },
+      {
+        "title": "Nature of Language Acquisition",
+        "quote": "The ability to communicate in a variety of modes in more than one language is essential to the concept of an international education that promotes multilingualism and intercultural understanding.",
+        "text": "Language acquisition develops critical thinking, intercultural awareness and international-mindedness. It equips students with multiliteracy skills to communicate in diverse global contexts, sustains personal development and cultural identity, and builds a foundation for lifelong language learning."
+      },
+      {
+        "title": "Proficiency Levels and Phases",
+        "quote": "As students progress through the three levels and six phases, they develop their ability to communicate appropriately and effectively in an increasing range of social, cultural and academic contexts.",
+        "text": "Teaching and learning is organised into three proficiency levels: Emergent (phases 1–2), Capable (phases 3–4), and Proficient (phases 5–6). Students may begin at any phase based on prior learning and may exit from any phase. Each level represents increasing complexity of texts, contexts and communicative demands.",
+        "progression_table": {
+          "headers": [
+            "Aspect",
+            "Emergent (Ph 1–2)",
+            "Capable (Ph 3–4)",
+            "Proficient (Ph 5–6)"
+          ],
+          "rows": [
+            [
+              "Situations",
+              "Interpersonal and cultural contexts relating to oneself and immediate environment",
+              "Range of contexts including unfamiliar situations",
+              "Wide range including topics of personal, academic and global significance"
+            ],
+            [
+              "Texts",
+              "Wide variety of simple authentic multimodal texts",
+              "Wide variety of simple and some complex authentic multimodal texts",
+              "Wide variety of complex authentic multimodal texts"
+            ],
+            [
+              "Interaction",
+              "Basic unrehearsed exchanges",
+              "Authentic/spontaneous interaction",
+              "Authentic/spontaneous interaction"
+            ],
+            [
+              "Communication",
+              "Comprehensible — errors may still occur",
+              "Increasing accuracy — occasional errors",
+              "Accurate and fluent with few errors"
+            ],
+            [
+              "Writing cohesion",
+              "Simple cohesive devices",
+              "Simple and complex cohesive devices",
+              "Complex cohesive devices"
+            ]
+          ]
+        }
+      },
+      {
+        "title": "Key and Related Concepts",
+        "text": "The key concepts contributed by the study of language acquisition are Communication, Connections, Creativity and Culture.",
+        "concepts": {
+          "key": [
+            "Communication",
+            "Connections",
+            "Creativity",
+            "Culture"
+          ],
+          "key_definitions": [
+            {
+              "name": "Communication",
+              "definition": "The exchange or transfer of signals, facts, ideas and symbols. Through the exploration of language, we exchange, express and transform information and meanings. Communication is the basis of what makes us human and bridges communities across the globe."
+            },
+            {
+              "name": "Connections",
+              "definition": "Links, bonds and relationships among people, objects, organisms or ideas. Linguistic and literary connections exist across time, cultures and oral, visual and written texts. This concept allows for the exploration of language and relationships between text, creator and audience."
+            },
+            {
+              "name": "Creativity",
+              "definition": "The process of generating novel ideas and considering existing ideas from new perspectives. Creativity is nurtured through language learning as it involves divergent thinking, applying ideas, taking risks and expressing ourselves in order to interact with the world."
+            },
+            {
+              "name": "Culture",
+              "definition": "A range of learned and shared beliefs, values, interests, attitudes, products, ways of knowing and patterns of behaviour created by human communities. Learning the language of a community develops sociocultural competence and intercultural awareness."
+            }
+          ],
+          "related": [
+            {
+              "label": "Phases 1–2 (Emergent)",
+              "items": [
+                { "name": "Audience", "definition": "Whoever a text or performance is aimed at: the reader, the listener, the viewer." },
+                { "name": "Context", "definition": "The social, historical, cultural and workplace settings in which a text or work is produced." },
+                { "name": "Conventions", "definition": "The characteristics of a literary or non-literary genre — recognisable techniques writers use to achieve particular artistic ends." },
+                { "name": "Form", "definition": "The linguistic structure communication may take — grammatical, lexical and phonological." },
+                { "name": "Function", "definition": "The purpose and/or use of communication." },
+                { "name": "Meaning", "definition": "What is communicated, by intention or implication, using any range of human expression — including layers of meaning, nuance, denotation, connotation, inference." },
+                { "name": "Message", "definition": "A communication in writing, speech, or non-verbal language. Can also be an underlying theme or idea." },
+                { "name": "Patterns", "definition": "Use of language and style that can be functional, decorative or social, reflecting unique characteristics of a language." },
+                { "name": "Pronunciation", "definition": "The way in which words or a language is spoken. The aim is comfortable intelligibility, not native-speaker accent." },
+                { "name": "Purpose", "definition": "The reason for communicating — to entertain, recount, socialise, inquire, inform, persuade, explain or instruct." },
+                { "name": "Structure", "definition": "The organisation, pattern and elements of text in any format. Promotes comprehension and effectiveness of communication." },
+                { "name": "Word choice", "definition": "The selection of vocabulary to achieve precision, tone and effect appropriate to purpose and audience." }
+              ]
+            },
+            {
+              "label": "Phases 3–4 (Capable, adds)",
+              "items": [
+                { "name": "Empathy", "definition": "An attitude of understanding — an emotional identification with a person, character, argument or situation." },
+                { "name": "Idiom", "definition": "Unique to each language — expressions whose meaning differs from the meaning of individual components." },
+                { "name": "Point of view", "definition": "The particular perspective of a composer, responder or character within a text — includes positioning, voice and tone." }
+              ]
+            },
+            {
+              "label": "Phases 5–6 (Proficient, adds)",
+              "items": [
+                { "name": "Argument", "definition": "The coherent backdrop of reasoned text — may or may not involve disagreement, debate or persuasion." },
+                { "name": "Bias", "definition": "A conscious distortion or exaggeration, usually expressing prejudice or partiality." },
+                { "name": "Inference", "definition": "Information in a text that goes beyond what is first apparent — the layer often referred to as 'between the lines'." },
+                { "name": "Stylistic choices", "definition": "An umbrella term covering literary and non-literary features: linguistic devices (e.g. rhetoric, syntax), literary devices (e.g. symbolism, metaphor) and visual devices (e.g. colour, foregrounding)." },
+                { "name": "Theme", "definition": "A dominant subject, thread or idea conveyed through a text form." },
+                { "name": "Voice", "definition": "The characteristic speech and thought patterns of a narrator — a persona conveying attitude, personality and character." }
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "assessment_overview": {
+    "intro": "Each criterion has eight possible achievement levels (1–8), divided into four bands representing performance that is: limited (1–2), adequate (3–4), substantial (5–6), and excellent (7–8). Each band has its own unique descriptor used to make best-fit judgments.",
+    "requirement": "Subject groups must assess all strands of all four assessment criteria at least twice in each year of the MYP."
+  },
+  "phases": [
+    {
+      "id": "listen",
+      "label": "Criterion A\nListening",
+      "criterion": "Criterion A",
+      "color": "#4A90C4",
+      "light": "#cde3f5",
+      "description": "Students comprehend spoken language presented in multimodal texts — interpreting and constructing meaning from spoken and visual content to understand how images and spatial elements interplay with oral text to convey ideas, values and attitudes.",
+      "nodes": [
+        {
+          "label": "Identify",
+          "detail": "explicit & implicit info",
+          "description": "Students identify explicit and implicit information — facts, opinions and supporting details — in authentic spoken multimodal texts. At emergent level this means simple texts; at proficient level, complex authentic texts with nuanced meaning.",
+          "strand_full": "Identify explicit and implicit information (facts and/or opinions, supporting details) in a wide variety of authentic texts.",
+          "progression": {
+            "y1": "Identifies minimal to some stated information (facts/opinions) in simple authentic texts.",
+            "y3": "Identifies explicit and implicit information in simple and some complex authentic texts.",
+            "y5": "Identifies explicit and implicit information in a wide variety of complex authentic texts."
+          }
+        },
+        {
+          "label": "Analyse",
+          "detail": "conventions",
+          "description": "Students analyse the language and behavioural conventions present in spoken multimodal texts — including forms of address, greetings, dress codes, gestures and other cultural conventions that shape meaning.",
+          "strand_full": "Analyse conventions in a wide variety of authentic spoken multimodal texts.",
+          "progression": {
+            "y1": "Identifies basic conventions in simple authentic texts.",
+            "y3": "Interprets then analyses conventions in simple and some complex authentic texts.",
+            "y5": "Analyses conventions in a wide variety of complex authentic texts."
+          }
+        },
+        {
+          "label": "Analyse",
+          "detail": "connections",
+          "description": "Students analyse connections between components of multimodal texts — identifying shared contexts, contrasting perspectives and relationships between visual and spoken elements across a range of texts.",
+          "strand_full": "Analyse connections between a wide variety of authentic spoken multimodal texts.",
+          "progression": {
+            "y1": "Identifies basic connections between simple authentic texts.",
+            "y3": "Interprets then analyses connections between simple and some complex authentic texts.",
+            "y5": "Analyses connections between a wide variety of complex authentic texts."
+          }
+        }
+      ],
+      "levels": {
+        "y1": [
+          {
+            "band": "1–2",
+            "text": "Identifies minimal stated information (facts and/or opinions) in simple authentic texts; identifies basic conventions; identifies basic connections between simple authentic texts."
+          },
+          {
+            "band": "3–4",
+            "text": "Identifies some stated information (facts and/or opinions) in simple authentic texts; identifies basic conventions; identifies basic connections between simple authentic texts."
+          },
+          {
+            "band": "5–6",
+            "text": "Identifies most stated information (facts/opinions, and supporting details) in a variety of simple authentic texts; interprets conventions; interprets connections between simple authentic texts."
+          },
+          {
+            "band": "7–8",
+            "text": "Identifies explicit and implicit information (facts/opinions, and supporting details) in a wide variety of simple authentic texts; analyses conventions; analyses connections between simple authentic texts."
+          }
+        ],
+        "y3": [
+          {
+            "band": "1–2",
+            "text": "Identifies minimal stated information in simple and some complex authentic texts; identifies basic conventions; identifies basic connections between simple and some complex authentic texts."
+          },
+          {
+            "band": "3–4",
+            "text": "Identifies some stated information in simple and some complex authentic texts; identifies basic conventions; identifies basic connections between simple and some complex authentic texts."
+          },
+          {
+            "band": "5–6",
+            "text": "Identifies most stated information (with supporting details) in simple and some complex authentic texts; interprets conventions; interprets connections between simple and some complex authentic texts."
+          },
+          {
+            "band": "7–8",
+            "text": "Identifies explicit and implicit information (with supporting details) in simple and some complex authentic texts; analyses conventions; analyses connections between simple and some complex authentic texts."
+          }
+        ],
+        "y5": [
+          {
+            "band": "1–2",
+            "text": "Identifies minimal stated information in complex authentic texts; identifies basic conventions; identifies basic connections between complex authentic texts."
+          },
+          {
+            "band": "3–4",
+            "text": "Identifies some stated information in complex authentic texts; identifies basic conventions; identifies basic connections between complex authentic texts."
+          },
+          {
+            "band": "5–6",
+            "text": "Identifies most stated information (with supporting details) in complex authentic texts; interprets conventions; interprets connections between complex authentic texts."
+          },
+          {
+            "band": "7–8",
+            "text": "Identifies explicit and implicit information (with supporting details) in complex authentic texts; analyses conventions; analyses connections between complex authentic texts."
+          }
+        ]
+      }
+    },
+    {
+      "id": "read",
+      "label": "Criterion B\nReading",
+      "criterion": "Criterion B",
+      "color": "#E8A44A",
+      "light": "#fae3bc",
+      "description": "Students comprehend written language presented in multimodal texts — constructing meaning from written, spatial and visual elements, thinking creatively and critically about what is read and viewed, and developing empathy and new perspectives.",
+      "nodes": [
+        {
+          "label": "Identify",
+          "detail": "explicit & implicit info",
+          "description": "Students identify explicit and implicit information in written multimodal texts — understanding literal content, reading between the lines, and drawing conclusions from written text alongside its visual and spatial components.",
+          "strand_full": "Identify explicit and implicit information (facts and/or opinions, supporting details) in a wide variety of authentic written multimodal texts.",
+          "progression": {
+            "y1": "Identifies minimal to some stated information (facts/opinions) in a variety of simple authentic texts.",
+            "y3": "Identifies explicit and implicit information in simple and some complex authentic texts.",
+            "y5": "Identifies explicit and implicit information in a wide variety of complex authentic texts."
+          }
+        },
+        {
+          "label": "Analyse",
+          "detail": "conventions",
+          "description": "Students analyse the conventions of written multimodal texts — including text type, audience, purpose, formal/informal language, punctuation, word choice, layout, colour and physical organisation.",
+          "strand_full": "Analyse conventions in a wide variety of authentic written multimodal texts.",
+          "progression": {
+            "y1": "Identifies basic conventions in simple authentic texts.",
+            "y3": "Interprets then analyses conventions in simple and some complex authentic texts.",
+            "y5": "Analyses conventions in a wide variety of complex authentic texts."
+          }
+        },
+        {
+          "label": "Analyse",
+          "detail": "connections",
+          "description": "Students analyse the relationships between the various components of written multimodal texts — identifying whether elements share the same context and how written and visual modes interplay to construct meaning.",
+          "strand_full": "Analyse connections between a wide variety of authentic written multimodal texts.",
+          "progression": {
+            "y1": "Identifies basic connections between simple authentic texts.",
+            "y3": "Interprets then analyses connections between simple and some complex authentic texts.",
+            "y5": "Analyses connections between a wide variety of complex authentic texts."
+          }
+        }
+      ],
+      "levels": {
+        "y1": [
+          {
+            "band": "1–2",
+            "text": "Identifies minimal stated information (facts and/or opinions) in a variety of simple authentic texts; identifies basic conventions; identifies basic connections between simple authentic texts."
+          },
+          {
+            "band": "3–4",
+            "text": "Identifies some stated information (facts and/or opinions) in a variety of simple authentic texts; identifies basic conventions; identifies basic connections between simple authentic texts."
+          },
+          {
+            "band": "5–6",
+            "text": "Identifies most stated information (facts/opinions, and supporting details) in a variety of simple authentic texts; interprets conventions; interprets connections between simple authentic texts."
+          },
+          {
+            "band": "7–8",
+            "text": "Identifies explicit and implicit information (facts/opinions, and supporting details) in a wide variety of simple authentic texts; analyses conventions; analyses connections between simple authentic texts."
+          }
+        ],
+        "y3": [
+          {
+            "band": "1–2",
+            "text": "Identifies minimal stated information in simple and some complex authentic texts; identifies basic conventions; identifies basic connections between simple and some complex authentic texts."
+          },
+          {
+            "band": "3–4",
+            "text": "Identifies some stated information in simple and some complex authentic texts; identifies basic conventions; identifies basic connections between simple and some complex authentic texts."
+          },
+          {
+            "band": "5–6",
+            "text": "Identifies most stated information (with supporting details) in simple and some complex authentic texts; interprets conventions; interprets connections between simple and some complex authentic texts."
+          },
+          {
+            "band": "7–8",
+            "text": "Identifies explicit and implicit information (with supporting details) in simple and some complex authentic texts; analyses conventions; analyses connections between simple and some complex authentic texts."
+          }
+        ],
+        "y5": [
+          {
+            "band": "1–2",
+            "text": "Identifies minimal stated information in complex authentic texts; identifies basic conventions; identifies basic connections between complex authentic texts."
+          },
+          {
+            "band": "3–4",
+            "text": "Identifies some stated information in complex authentic texts; identifies basic conventions; identifies basic connections between complex authentic texts."
+          },
+          {
+            "band": "5–6",
+            "text": "Identifies most stated information (with supporting details) in complex authentic texts; interprets conventions; interprets connections between complex authentic texts."
+          },
+          {
+            "band": "7–8",
+            "text": "Identifies explicit and implicit information (with supporting details) in complex authentic texts; analyses conventions; analyses connections between complex authentic texts."
+          }
+        ]
+      }
+    },
+    {
+      "id": "speak",
+      "label": "Criterion C\nSpeaking",
+      "criterion": "Criterion C",
+      "color": "#6AAF6A",
+      "light": "#c8e8c8",
+      "description": "Students develop communication skills by interacting on topics of personal, local and global interest, applying understanding of linguistic concepts to develop grammar, pronunciation and vocabulary with increasing skill and effectiveness.",
+      "nodes": [
+        {
+          "label": "Use",
+          "detail": "vocabulary & grammar",
+          "description": "Students use a wide range of vocabulary and grammatical structures generally accurately — applying the language system with increasing sophistication across emergent, capable and proficient levels.",
+          "strand_full": "Use a wide range of vocabulary and grammatical structures generally accurately.",
+          "progression": {
+            "y1": "Uses a limited to basic range of vocabulary and grammar; errors often or sometimes hinder communication.",
+            "y3": "Uses a range of vocabulary and grammar with few errors that do not hinder communication.",
+            "y5": "Uses a wide range of vocabulary and grammatical structures generally accurately."
+          }
+        },
+        {
+          "label": "Use",
+          "detail": "pronunciation & intonation",
+          "description": "Students use clear pronunciation and intonation in a comprehensible manner. The goal is intelligibility — the listener can understand the speaker with minimal strain. Native-speaker accent is not required.",
+          "strand_full": "Use clear pronunciation and intonation in a comprehensible manner.",
+          "progression": {
+            "y1": "Pronunciation and intonation have many errors that often hinder comprehension.",
+            "y3": "Pronunciation and intonation have a few errors that do not hinder comprehension.",
+            "y5": "Clear pronunciation and intonation make communication easy to comprehend."
+          }
+        },
+        {
+          "label": "Communicate",
+          "detail": "information clearly",
+          "description": "During interaction, students communicate all or almost all required information clearly and effectively — responding to the role, context, audience and purpose of the communicative exchange.",
+          "strand_full": "Communicate all or almost all the required information clearly and effectively during interaction.",
+          "progression": {
+            "y1": "Communicates limited relevant information during interaction.",
+            "y3": "Communicates most relevant information during interaction.",
+            "y5": "Communicates all or almost all required information clearly and effectively during interaction."
+          }
+        }
+      ],
+      "levels": {
+        "y1": [
+          {
+            "band": "1–2",
+            "text": "Uses a limited range of vocabulary; limited grammatical range with many errors often hindering communication; pronunciation and intonation often hinder comprehension; communicates limited relevant information."
+          },
+          {
+            "band": "3–4",
+            "text": "Uses a basic range of vocabulary; basic grammatical range with some errors sometimes hindering communication; pronunciation and intonation sometimes hinder comprehension; communicates some relevant information."
+          },
+          {
+            "band": "5–6",
+            "text": "Uses a range of vocabulary; grammatical range with few errors not hindering communication; pronunciation and intonation with few errors not hindering comprehension; communicates most relevant information."
+          },
+          {
+            "band": "7–8",
+            "text": "Uses a wide range of vocabulary; wide grammatical range generally accurately; clear pronunciation and intonation making communication easy to comprehend; communicates all or almost all required information clearly and effectively."
+          }
+        ],
+        "y3": [
+          {
+            "band": "1–2",
+            "text": "Uses a limited range of vocabulary; limited grammatical range with many errors often hindering communication; pronunciation and intonation often hinder comprehension; communicates limited relevant information."
+          },
+          {
+            "band": "3–4",
+            "text": "Uses a basic range of vocabulary; basic grammatical range with some errors sometimes hindering communication; pronunciation and intonation sometimes hinder comprehension; communicates some relevant information."
+          },
+          {
+            "band": "5–6",
+            "text": "Uses a range of vocabulary; grammatical range with few errors not hindering communication; pronunciation and intonation with few errors not hindering comprehension; communicates most relevant information."
+          },
+          {
+            "band": "7–8",
+            "text": "Uses a wide range of vocabulary; wide grammatical range generally accurately; clear pronunciation and intonation making communication easy to comprehend; communicates all or almost all required information clearly and effectively."
+          }
+        ],
+        "y5": [
+          {
+            "band": "1–2",
+            "text": "Uses a limited range of vocabulary; limited grammatical range with many errors often hindering communication; pronunciation and intonation often hinder comprehension; communicates limited relevant information."
+          },
+          {
+            "band": "3–4",
+            "text": "Uses a basic range of vocabulary; basic grammatical range with some errors sometimes hindering communication; pronunciation and intonation sometimes hinder comprehension; communicates some relevant information."
+          },
+          {
+            "band": "5–6",
+            "text": "Uses a range of vocabulary; grammatical range with few errors not hindering communication; pronunciation and intonation with few errors not hindering comprehension; communicates most relevant information."
+          },
+          {
+            "band": "7–8",
+            "text": "Uses a wide range of vocabulary; wide grammatical range generally accurately; clear pronunciation and intonation making communication easy to comprehend; communicates all or almost all required information clearly and effectively."
+          }
+        ]
+      }
+    },
+    {
+      "id": "write",
+      "label": "Criterion D\nWriting",
+      "criterion": "Criterion D",
+      "color": "#C96060",
+      "light": "#f5c8c8",
+      "description": "Students apply understanding of language, form, mode and literary concepts to express ideas, values and opinions in creative and meaningful ways — recognising and using language suitable to audience and purpose across a range of text types.",
+      "nodes": [
+        {
+          "label": "Use",
+          "detail": "vocabulary & grammar",
+          "description": "Students use a wide range of vocabulary and grammatical structures generally accurately — developing spelling, grammar, tense accuracy and word choice appropriate to the written target language.",
+          "strand_full": "Use a wide range of vocabulary and grammatical structures generally accurately.",
+          "progression": {
+            "y1": "Uses a limited to basic range of vocabulary and grammar; errors often or sometimes hinder communication.",
+            "y3": "Uses a range of vocabulary and grammar with few errors that do not hinder communication.",
+            "y5": "Uses a wide range of vocabulary and grammatical structures generally accurately."
+          }
+        },
+        {
+          "label": "Organise",
+          "detail": "information coherently",
+          "description": "Students organise information effectively and coherently in an appropriate format using cohesive devices. The complexity of devices expected increases from simple at emergent level to complex at proficient level.",
+          "strand_full": "Organise information effectively and coherently in an appropriate format using a wide range of cohesive devices.",
+          "progression": {
+            "y1": "Presents some information in a partially recognisable format using some basic cohesive devices.",
+            "y3": "Organises information in an appropriate format using simple and some complex cohesive devices.",
+            "y5": "Organises information effectively and coherently in an appropriate format using a wide range of complex cohesive devices."
+          }
+        },
+        {
+          "label": "Communicate",
+          "detail": "with audience & purpose",
+          "description": "Students communicate all or almost all required information with a clear sense of audience and purpose — selecting register, format and tone appropriate to the context, and ensuring the text makes sense to the intended reader.",
+          "strand_full": "Communicate all or almost all required information with a clear sense of audience and purpose to suit the context.",
+          "progression": {
+            "y1": "Communicates limited relevant information with some sense of audience and purpose.",
+            "y3": "Communicates most relevant information with a sense of audience and purpose to suit the context.",
+            "y5": "Communicates all or almost all required information with a clear sense of audience and purpose to suit the context."
+          }
+        }
+      ],
+      "levels": {
+        "y1": [
+          {
+            "band": "1–2",
+            "text": "Uses a limited range of vocabulary; limited grammatical range with many errors often hindering communication; presents some information in a partially-recognisable format using some basic cohesive devices; communicates limited relevant information with some sense of audience and purpose."
+          },
+          {
+            "band": "3–4",
+            "text": "Uses a basic range of vocabulary; basic grammatical range with some errors sometimes hindering communication; organises information in a recognisable format using a range of basic cohesive devices; communicates some relevant information with some sense of audience and purpose."
+          },
+          {
+            "band": "5–6",
+            "text": "Uses a range of vocabulary; grammatical range with few errors not hindering communication; organises information in an appropriate format using simple and some complex cohesive devices; communicates most relevant information with a sense of audience and purpose."
+          },
+          {
+            "band": "7–8",
+            "text": "Uses a wide range of vocabulary; wide grammatical range generally accurately; organises information effectively and coherently in an appropriate format using a wide range of simple and some complex cohesive devices; communicates all or almost all required information with a clear sense of audience and purpose."
+          }
+        ],
+        "y3": [
+          {
+            "band": "1–2",
+            "text": "Uses a limited range of vocabulary; limited grammatical range with many errors often hindering communication; organises some information in a recognisable format using some basic cohesive devices; communicates limited relevant information with some sense of audience and purpose."
+          },
+          {
+            "band": "3–4",
+            "text": "Uses a basic range of vocabulary; basic grammatical range with some errors sometimes hindering communication; organises information in a recognisable format using a range of basic cohesive devices; communicates some relevant information with some sense of audience and purpose."
+          },
+          {
+            "band": "5–6",
+            "text": "Uses a range of vocabulary; grammatical range with few errors not hindering communication; organises information in an appropriate format using simple and some complex cohesive devices; communicates most relevant information with a sense of audience and purpose."
+          },
+          {
+            "band": "7–8",
+            "text": "Uses a wide range of vocabulary; wide grammatical range generally accurately; organises information effectively and coherently in an appropriate format using a wide range of simple and complex cohesive devices; communicates all or almost all required information with a clear sense of audience and purpose."
+          }
+        ],
+        "y5": [
+          {
+            "band": "1–2",
+            "text": "Uses a limited range of vocabulary; limited grammatical range with many errors often hindering communication; organises some information in a recognisable format using some basic cohesive devices; communicates limited relevant information with some sense of audience and purpose."
+          },
+          {
+            "band": "3–4",
+            "text": "Uses a basic range of vocabulary; basic grammatical range with some errors sometimes hindering communication; organises information in a recognisable format using a range of basic cohesive devices; communicates some relevant information with some sense of audience and purpose."
+          },
+          {
+            "band": "5–6",
+            "text": "Uses a range of vocabulary; grammatical range with few errors not hindering communication; organises information in an appropriate format using simple and complex cohesive devices; communicates most relevant information with a sense of audience and purpose."
+          },
+          {
+            "band": "7–8",
+            "text": "Uses a wide range of vocabulary; wide grammatical range generally accurately; organises information effectively and coherently in an appropriate format using a wide range of complex cohesive devices; communicates all or almost all required information with a clear sense of audience and purpose."
+          }
+        ]
+      }
+    }
+  ]
+}

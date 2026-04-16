@@ -1,0 +1,471 @@
+{
+  "title": "MYP Arts Cycle",
+  "subtitle": "Learning Map",
+  "overview": {
+    "title": "MYP Arts Overview",
+    "description": "Select a criterion from the diagram to explore, or click the centre circle to return to this overview.",
+    "sections": [
+      {
+        "title": "Nature of the Arts",
+        "quote": "All great artists draw from the same resource: the human heart, which tells us that we are all more alike than we are unalike.",
+        "text": "The arts are a defining feature of cultural identity, providing insight into the past, present and future. The MYP values creating, performing and presenting artwork, giving students opportunities to function as artists and develop as learners. Students learn to use the arts to convey feelings, experiences and ideas, acquiring techniques and creative skills along the way."
+      },
+      {
+        "title": "Thinking and Working Creatively",
+        "quote": "To create one's own world in any of the arts takes courage.",
+        "text": "Creativity in the MYP is the capacity to generate new ideas and consider existing ideas from new perspectives. Students are encouraged to take creative risks and explore ideas through both conventional and unconventional approaches. The arts process journal is used to document the internal thought process and creativity that occurs throughout — from questioning and ideation to experimentation and risk-taking."
+      },
+      {
+        "title": "Curriculum Planning",
+        "text": "The table below shows how learning experiences and expected outcomes should progress across the stages of the MYP arts programme.",
+        "progression_table": {
+          "headers": [
+            "Year 1 / Novice",
+            "Year 3 / Intermediate",
+            "Year 5 / Competent"
+          ],
+          "rows": [
+            [
+              "Students describe an artwork or performance from a chosen movement or genre.",
+              "Students analyse an artwork or performance from a chosen movement or genre.",
+              "Students critique an artwork or performance from a chosen movement or genre."
+            ],
+            [
+              "Students demonstrate sufficient practical exploration of ideas.",
+              "Students demonstrate substantial to extensive and varied practical exploration.",
+              "Students demonstrate extensive and varied practical exploration with justified artistic choices."
+            ],
+            [
+              "Students demonstrate limited to consistently effective use of skills in a finalized work.",
+              "Students demonstrate satisfactory to consistently effective use of skills in a finalized work.",
+              "Students demonstrate satisfactory to consistently effective use of skills in a finalized work."
+            ],
+            [
+              "Students analyse their own artwork and describe their development as an artist.",
+              "Students evaluate their own artwork and analyse their development as an artist.",
+              "Students thoroughly and perceptively evaluate their work and discuss their development as an artist."
+            ],
+            [
+              "Teacher leads structured exploration of art forms and techniques.",
+              "Teacher guides students in developing independence across objectives.",
+              "Teacher facilitates self-directed, sophisticated artistic inquiry."
+            ]
+          ]
+        }
+      },
+      {
+        "title": "Key and Related Concepts",
+        "text": "The key concepts contributed by the study of arts are Aesthetics, Change, Communication and Identity.",
+        "concepts": {
+          "key": [
+            "Aesthetics",
+            "Change",
+            "Communication",
+            "Identity"
+          ],
+          "key_definitions": [
+            {
+              "name": "Aesthetics",
+              "definition": "Aesthetics deals with the characteristics, creation, meaning and perception of beauty and taste. In the arts, aesthetics may begin with the formal study of elements of art and beauty but should also include diverse cultural perspectives."
+            },
+            {
+              "name": "Change",
+              "definition": "Change is a conversion, transformation or movement from one form, state or value to another. The arts may be a reflection of change, or an inspiration for change. In the arts, change can also be termed as metamorphosis or transformation."
+            },
+            {
+              "name": "Communication",
+              "definition": "Communication is the exchange or transfer of signals, facts, ideas and symbols. In the arts, it is regarded as a message between the artist and an audience. An artistic intention is the artist's communication of the intended impact of the artwork or performance on an audience."
+            },
+            {
+              "name": "Identity",
+              "definition": "Identity refers to the particular features that define individuals, groups, things, eras, places, symbols and styles. In the arts, identity is explored through self-discovery, genre, style, movement, and the values of a culture or period of time."
+            }
+          ],
+          "related": [
+            {
+              "label": "Visual Arts",
+              "items": [
+                { "name": "Audience", "definition": "An individual or group who receive and/or respond to arts. Includes strategies for engaging audience and how the audience–artist relationship affects the arts." },
+                { "name": "Boundaries", "definition": "The parameters that define a personality, culture, environment, civil law, skill set or belief structure. Includes the dividing line between what is real and fictional." },
+                { "name": "Composition", "definition": "The intentional organization of contrast, balance and arrangement of art principles for a particular purpose — including tension and release, repetition and variety, and dynamics." },
+                { "name": "Expression", "definition": "The representation of feelings, emotions, ideas, thoughts and beliefs in the process of visual or physical articulation. It may facilitate the communication of an idea." },
+                { "name": "Genre", "definition": "A type or category of art identified through particular characteristics, techniques and conventions. Examples include tragedy, melodrama, jazz, pop art." },
+                { "name": "Innovation", "definition": "An altered interpretation of, or experimentation with, ideas, techniques and media. It promotes originality through new ways of presenting ideas." },
+                { "name": "Interpretation", "definition": "The understanding of an artwork's meaning as determined by the context of the artist, artwork or audience. Also a distinctive personal re-creation of an existing artwork." },
+                { "name": "Narrative", "definition": "A spoken, written or visual account of connected events; a story which may be fictional or non-fictional." },
+                { "name": "Presentation", "definition": "The choice of medium, tool and exhibition or performance space that contributes to audience understanding of the meaning or purpose of the artwork." },
+                { "name": "Representation", "definition": "The description, depiction or portrayal of a person, group, place or item in a particular way or as being of a particular nature." },
+                { "name": "Style", "definition": "A type of art characteristic of a group of people, a person or period of time, belonging to a shared tradition or set of conventions." },
+                { "name": "Visual culture", "definition": "A field of study combining cultural studies, art history, critical theory, philosophy and anthropology, focusing on aspects of culture that rely on visual images." }
+              ]
+            },
+            {
+              "label": "Performing Arts",
+              "items": [
+                { "name": "Audience", "definition": "An individual or group who receive and/or respond to arts. Includes strategies for engaging audience and how the audience–artist relationship affects the arts." },
+                { "name": "Boundaries", "definition": "The imagined or physical boundary between performance space and audience; the relationships between characters; the subversive or provocative nature of the arts." },
+                { "name": "Composition", "definition": "The intentional organization of the principles of art — including tension and release, repetition and variety, unison and harmony, sound and silence, theme and variation." },
+                { "name": "Expression", "definition": "The representation of feelings and emotions in the process of physical articulation. Something you do or play that shows what you think or feel." },
+                { "name": "Genre", "definition": "A type or category of art identified through characteristics and conventions — including form, style, tone, mood, atmosphere, instrumentation, choreography, rhythm, movement." },
+                { "name": "Innovation", "definition": "An altered interpretation of, or experimentation with, ideas, techniques and media in performance contexts." },
+                { "name": "Interpretation", "definition": "A distinctive personal performance or re-creation of an existing artwork. The understanding of a work's meaning as determined by context." },
+                { "name": "Narrative", "definition": "A spoken, written or visual account of connected events in performance — fictional or non-fictional." },
+                { "name": "Play", "definition": "Experimentation — playing with ideas, characters and techniques. In product, a collective creation of a theatre piece transformed into live action." },
+                { "name": "Presentation", "definition": "The choice of performance space and medium that contributes to audience understanding of the artwork's meaning or purpose." },
+                { "name": "Role", "definition": "The development, adoption and portrayal of a character or style by a performer. Also refers to responsibilities related to lighting, sound, direction, choreography." },
+                { "name": "Structure", "definition": "The shape, timing and organization of the art and the factors that determine how a performance is shaped — considering form, function, narrative, contrast and focus." }
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "assessment_overview": {
+    "intro": "Each criterion has eight possible achievement levels (1–8), divided into four bands representing performance that is: limited (1–2), adequate (3–4), substantial (5–6), and excellent (7–8). Each band has its own unique descriptor used to make best-fit judgments.",
+    "requirement": "Subject groups must assess all strands of all four assessment criteria at least twice in each year of the MYP."
+  },
+  "phases": [
+    {
+      "id": "ia",
+      "label": "Investigating",
+      "criterion": "Criterion A",
+      "color": "#4A90C4",
+      "light": "#cde3f5",
+      "description": "Students investigate an art movement or genre in their chosen arts discipline, related to the statement of inquiry. They research the context, style and form of artworks and develop the ability to critique or describe works using subject-specific language.",
+      "nodes": [
+        {
+          "label": "Investigate",
+          "detail": "a movement or genre",
+          "strand_full": "Investigate a movement(s) or genre(s) in their chosen arts discipline, related to the statement of inquiry.",
+          "description": "Students research an art movement or genre in their chosen discipline, drawing on a range of sources including audio, video, images and notation. The focus is on the art form and artworks themselves — not biographical information about artists. Research is connected to the statement of inquiry.",
+          "progression": {
+            "y1": "Provides basic to relevant information related to the statement of inquiry, investigating a movement or genre at a foundational level.",
+            "y3": "Provides mostly relevant to comprehensive information, demonstrating growing depth and independence in researching a movement or genre.",
+            "y5": "Provides comprehensive, relevant information that is clearly related to the statement of inquiry, with sophisticated understanding of the movement or genre."
+          }
+        },
+        {
+          "label": "Describe / Analyse / Critique",
+          "detail": "an artwork or performance",
+          "strand_full": "Describe (Y1) / Analyse (Y3) / Critique (Y5) an artwork or performance from the chosen movement(s) or genre(s).",
+          "description": "Students examine a specific artwork or performance from the chosen movement or genre, engaging with its elements, techniques and context. The depth of engagement increases from identifying and describing features at the novice level, to analysing and ultimately critiquing at the competent level.",
+          "progression": {
+            "y1": "Identifies and describes features of an artwork or performance including two from elements, techniques or context.",
+            "y3": "Describes and analyses features including elements, techniques and context with increasing critical awareness.",
+            "y5": "Critiques an artwork or performance — including elements, techniques and context — with interpretation, analysis and evaluative judgment."
+          }
+        }
+      ],
+      "levels": {
+        "y1": [
+          {
+            "band": "1–2",
+            "text": "The student: (i) provides minimal or irrelevant information that is not related to the statement of inquiry; (ii) identifies features of an artwork or performance including some elements or techniques."
+          },
+          {
+            "band": "3–4",
+            "text": "The student: (i) provides basic information that is not always related to the statement of inquiry; (ii) identifies features of an artwork or performance including two from elements, techniques or context."
+          },
+          {
+            "band": "5–6",
+            "text": "The student: (i) provides mostly relevant information that is related to the statement of inquiry; (ii) outlines features of an artwork or performance including two from elements, techniques or context."
+          },
+          {
+            "band": "7–8",
+            "text": "The student: (i) provides relevant information that is related to the statement of inquiry; (ii) describes features of an artwork or performance including two from elements, techniques or context."
+          }
+        ],
+        "y3": [
+          {
+            "band": "1–2",
+            "text": "The student: (i) provides limited information that is not always related to the statement of inquiry; (ii) identifies features of an artwork or performance including two from elements, techniques or context."
+          },
+          {
+            "band": "3–4",
+            "text": "The student: (i) provides mostly relevant information that is related to the statement of inquiry; (ii) outlines features of an artwork or performance including two from elements, techniques or context."
+          },
+          {
+            "band": "5–6",
+            "text": "The student: (i) provides relevant information that is related to the statement of inquiry; (ii) describes features of an artwork or performance including two from elements, techniques or context."
+          },
+          {
+            "band": "7–8",
+            "text": "The student: (i) provides comprehensive, relevant information that is related to the statement of inquiry; (ii) analyses features of an artwork or performance including elements, techniques and context."
+          }
+        ],
+        "y5": [
+          {
+            "band": "1–2",
+            "text": "The student: (i) provides limited information that is not always related to the statement of inquiry; (ii) outlines features of an artwork or performance including two from elements, techniques or context."
+          },
+          {
+            "band": "3–4",
+            "text": "The student: (i) provides mostly relevant information that is related to the statement of inquiry; (ii) describes features of an artwork or performance including two from elements, techniques or context."
+          },
+          {
+            "band": "5–6",
+            "text": "The student: (i) provides relevant information that is related to the statement of inquiry; (ii) analyses features of an artwork or performance including elements, techniques and context."
+          },
+          {
+            "band": "7–8",
+            "text": "The student: (i) provides comprehensive, relevant information that is related to the statement of inquiry; (ii) critiques an artwork or performance including elements, techniques and context."
+          }
+        ]
+      }
+    },
+    {
+      "id": "dv",
+      "label": "Developing",
+      "criterion": "Criterion B",
+      "color": "#E8A44A",
+      "light": "#fae3bc",
+      "description": "Students develop ideas through practical exploration in their chosen art form, acquiring and experimenting with skills and techniques. They document their process and present a clear artistic intention for their final artwork or performance, linked to the statement of inquiry.",
+      "nodes": [
+        {
+          "label": "Practically explore",
+          "detail": "ideas",
+          "strand_full": "Practically explore ideas to inform development of a final artwork or performance.",
+          "description": "Students actively engage with the art form through hands-on experimentation, trying out skills, techniques, materials and approaches. Evidence of practical exploration cannot be limited to written form — it must include medium-appropriate evidence such as sketches, excerpts, recordings or dance movements. The depth and variety of exploration increases with each stage.",
+          "progression": {
+            "y1": "Demonstrates sufficient to substantial and varied practical exploration of an idea or ideas.",
+            "y3": "Demonstrates substantial to extensive and varied practical exploration of an idea or ideas.",
+            "y5": "Demonstrates extensive and varied practical exploration of an idea or ideas, with increasingly sophisticated engagement."
+          }
+        },
+        {
+          "label": "Present",
+          "detail": "an artistic intention",
+          "strand_full": "Present a clear artistic intention for the final artwork or performance in line with the statement of inquiry.",
+          "description": "Students articulate the purpose and intended impact of their planned artwork or performance. The artistic intention should justify key artistic choices — such as techniques, style, materials or interpretation — and must connect clearly to the statement of inquiry. The precision of justification increases from stating to describing to justifying across stages.",
+          "progression": {
+            "y1": "Presents a clear artistic intention in line with the statement of inquiry and describes artistic choices.",
+            "y3": "Presents a clear artistic intention in line with the statement of inquiry and explains artistic choices.",
+            "y5": "Presents a clear artistic intention in line with the statement of inquiry and justifies artistic choices."
+          }
+        }
+      ],
+      "levels": {
+        "y1": [
+          {
+            "band": "1–2",
+            "text": "The student: (i) demonstrates limited practical exploration of an idea or ideas; (ii) states some artistic choices but the artistic intention is unclear."
+          },
+          {
+            "band": "3–4",
+            "text": "The student: (i) demonstrates sufficient practical exploration of an idea or ideas; (ii) presents a clear artistic intention and states artistic choices."
+          },
+          {
+            "band": "5–6",
+            "text": "The student: (i) demonstrates substantial practical exploration of an idea or ideas; (ii) presents a clear artistic intention in line with the statement of inquiry and states artistic choices."
+          },
+          {
+            "band": "7–8",
+            "text": "The student: (i) demonstrates substantial and varied practical exploration of an idea or ideas; (ii) presents a clear artistic intention in line with the statement of inquiry and describes artistic choices."
+          }
+        ],
+        "y3": [
+          {
+            "band": "1–2",
+            "text": "The student: (i) demonstrates limited practical exploration of an idea or ideas; (ii) presents a clear artistic intention and states artistic choices."
+          },
+          {
+            "band": "3–4",
+            "text": "The student: (i) demonstrates sufficient practical exploration of an idea or ideas; (ii) presents a clear artistic intention in line with the statement of inquiry and states artistic choices."
+          },
+          {
+            "band": "5–6",
+            "text": "The student: (i) demonstrates substantial practical exploration of an idea or ideas; (ii) presents a clear artistic intention in line with the statement of inquiry and describes artistic choices."
+          },
+          {
+            "band": "7–8",
+            "text": "The student: (i) demonstrates extensive and varied practical exploration of an idea or ideas; (ii) presents a clear artistic intention in line with the statement of inquiry and explains artistic choices."
+          }
+        ],
+        "y5": [
+          {
+            "band": "1–2",
+            "text": "The student: (i) demonstrates limited practical exploration of an idea or ideas; (ii) presents a clear artistic intention in line with the statement of inquiry and states artistic choices."
+          },
+          {
+            "band": "3–4",
+            "text": "The student: (i) demonstrates sufficient practical exploration of an idea or ideas; (ii) presents a clear artistic intention in line with the statement of inquiry and describes artistic choices."
+          },
+          {
+            "band": "5–6",
+            "text": "The student: (i) demonstrates substantial practical exploration of an idea or ideas; (ii) presents a clear artistic intention in line with the statement of inquiry and explains artistic choices."
+          },
+          {
+            "band": "7–8",
+            "text": "The student: (i) demonstrates extensive and varied practical exploration of an idea or ideas; (ii) presents a clear artistic intention in line with the statement of inquiry and justifies artistic choices."
+          }
+        ]
+      }
+    },
+    {
+      "id": "cp",
+      "label": "Creating /\nPerforming",
+      "criterion": "Criterion C",
+      "color": "#6AAF6A",
+      "light": "#c8e8c8",
+      "description": "Students create or perform a finalized artwork, demonstrating the skills and techniques developed throughout the unit. The same criterion applies at all stages — what increases is the sophistication and range of skills that teachers plan for students to master each year.",
+      "nodes": [
+        {
+          "label": "Create or perform",
+          "detail": "a finalized artwork",
+          "strand_full": "Create or perform an artwork, demonstrating skills and techniques through a finalized work.",
+          "description": "Students produce or present a completed artwork or performance that demonstrates their command of the skills and techniques developed throughout the unit. This criterion assesses the final outcome, not the process of making it. The sophistication of skills expected increases year by year as teachers plan a deliberate skill progression.",
+          "progression": {
+            "y1": "Demonstrates limited to consistently effective use of skills and techniques through the creation or performance of a finalized work.",
+            "y3": "Demonstrates limited to consistently effective use of skills and techniques through the creation or performance of a finalized work, at a higher level of complexity than Y1.",
+            "y5": "Demonstrates limited to consistently effective use of skills and techniques through the creation or performance of a finalized work, at the highest level of planned complexity."
+          }
+        }
+      ],
+      "levels": {
+        "y1": [
+          {
+            "band": "1–2",
+            "text": "The student demonstrates limited skills and techniques through the creation or performance of a finalized work."
+          },
+          {
+            "band": "3–4",
+            "text": "The student demonstrates satisfactory use of skills and techniques through the creation or performance of a finalized work."
+          },
+          {
+            "band": "5–6",
+            "text": "The student demonstrates mostly effective use of skills and techniques through the creation or performance of a finalized work."
+          },
+          {
+            "band": "7–8",
+            "text": "The student demonstrates consistently effective use of skills and techniques through the creation or performance of a finalized work."
+          }
+        ],
+        "y3": [
+          {
+            "band": "1–2",
+            "text": "The student demonstrates limited skills and techniques through the creation or performance of a finalized work."
+          },
+          {
+            "band": "3–4",
+            "text": "The student demonstrates satisfactory use of skills and techniques through the creation or performance of a finalized work."
+          },
+          {
+            "band": "5–6",
+            "text": "The student demonstrates mostly effective use of skills and techniques through the creation or performance of a finalized work."
+          },
+          {
+            "band": "7–8",
+            "text": "The student demonstrates consistently effective use of skills and techniques through the creation or performance of a finalized work."
+          }
+        ],
+        "y5": [
+          {
+            "band": "1–2",
+            "text": "The student demonstrates limited skills and techniques through the creation or performance of a finalized work."
+          },
+          {
+            "band": "3–4",
+            "text": "The student demonstrates satisfactory use of skills and techniques through the creation or performance of a finalized work."
+          },
+          {
+            "band": "5–6",
+            "text": "The student demonstrates mostly effective use of skills and techniques through the creation or performance of a finalized work."
+          },
+          {
+            "band": "7–8",
+            "text": "The student demonstrates consistently effective use of skills and techniques through the creation or performance of a finalized work."
+          }
+        ]
+      }
+    },
+    {
+      "id": "ev",
+      "label": "Evaluating",
+      "criterion": "Criterion D",
+      "color": "#C96060",
+      "light": "#f5c8c8",
+      "description": "Students appraise their own completed artwork or performance and reflect on their development as an artist. Through evaluating their work and themselves, students become reflective practitioners who are aware of their artistic growth and the role the arts play in their lives.",
+      "nodes": [
+        {
+          "label": "Appraise",
+          "detail": "their own artwork",
+          "strand_full": "Appraise their own artwork or performance.",
+          "description": "Students evaluate their completed artwork or performance, considering elements, techniques and context. They assess how effectively their work achieved the artistic intention and what its impact is on an audience. The depth of appraisal develops from identifying and describing elements at the novice stage, to thorough and perceptive evaluation at the competent stage.",
+          "progression": {
+            "y1": "Identifies and describes elements of their own artwork or performance with growing detail.",
+            "y3": "Analyses and evaluates their own artwork or performance with increasing critical engagement.",
+            "y5": "Thoroughly and perceptively evaluates their own artwork or performance, weighing strengths and limitations with sophistication."
+          }
+        },
+        {
+          "label": "Reflect",
+          "detail": "on development as an artist",
+          "strand_full": "Reflect on their development as an artist.",
+          "description": "Students reflect on their personal growth as an artist throughout the unit, considering development of both artistic skills and ATL skills. They respond to the question: 'What have I learned that can be taken forward?' and 'What would I do differently?' Reflection deepens from brief observation at the novice stage, to nuanced discussion at the competent stage.",
+          "progression": {
+            "y1": "Identifies and describes aspects of development as an artist, including skills acquired and challenges overcome.",
+            "y3": "Outlines and describes development as an artist with increasing reflection on process and learning.",
+            "y5": "Discusses development as an artist in a considered and balanced way, with insight into personal growth and future directions."
+          }
+        }
+      ],
+      "levels": {
+        "y1": [
+          {
+            "band": "1–2",
+            "text": "The student: (i) identifies some elements of their own artwork or performance; (ii) makes a brief observation about their development as an artist."
+          },
+          {
+            "band": "3–4",
+            "text": "The student: (i) outlines some elements of their own artwork or performance; (ii) identifies some aspects of their development as an artist."
+          },
+          {
+            "band": "5–6",
+            "text": "The student: (i) describes their own artwork or performance; (ii) outlines their development as an artist."
+          },
+          {
+            "band": "7–8",
+            "text": "The student: (i) analyses their own artwork or performance; (ii) describes their development as an artist."
+          }
+        ],
+        "y3": [
+          {
+            "band": "1–2",
+            "text": "The student: (i) outlines some elements of their own artwork or performance; (ii) identifies some aspects of their development as an artist."
+          },
+          {
+            "band": "3–4",
+            "text": "The student: (i) describes their own artwork or performance; (ii) outlines their development as an artist."
+          },
+          {
+            "band": "5–6",
+            "text": "The student: (i) analyses their own artwork or performance; (ii) describes their development as an artist."
+          },
+          {
+            "band": "7–8",
+            "text": "The student: (i) evaluates their own artwork or performance; (ii) analyses their development as an artist."
+          }
+        ],
+        "y5": [
+          {
+            "band": "1–2",
+            "text": "The student: (i) describes their own artwork or performance; (ii) outlines their development as an artist."
+          },
+          {
+            "band": "3–4",
+            "text": "The student: (i) analyses their own artwork or performance; (ii) describes their development as an artist."
+          },
+          {
+            "band": "5–6",
+            "text": "The student: (i) evaluates their own artwork or performance; (ii) analyses their development as an artist."
+          },
+          {
+            "band": "7–8",
+            "text": "The student: (i) thoroughly and perceptively evaluates their own artwork or performance; (ii) discusses their development as an artist."
+          }
+        ]
+      }
+    }
+  ]
+}

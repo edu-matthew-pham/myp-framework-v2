@@ -1,0 +1,574 @@
+{
+  "title": "MYP Mathematics",
+  "subtitle": "Learning Map",
+  "overview": {
+    "title": "MYP Mathematics Overview",
+    "description": "Select a phase from the diagram to explore, or click the centre circle to return to this overview.",
+    "sections": [
+      {
+        "title": "Programme Model",
+        "quote": "The MYP is flexible enough to accommodate the demands of most national or local curriculums.",
+        "text": "The programme is structured around concepts, global contexts and approaches to learning (ATL). Learning is inquiry-based and connected to real-world contexts."
+      },
+      {
+        "title": "Nature of Mathematics",
+        "quote": "Neglect of mathematics works injury to all knowledge, since he who is ignorant of it cannot know the other sciences or the things of this world. — Roger Bacon (1214–1294)",
+        "text": "The study of mathematics is a fundamental part of a balanced education. It promotes a powerful universal language, analytical reasoning and problem-solving skills that contribute to the development of logical, abstract and critical thinking. Mathematics can help make sense of the world and allows phenomena to be described in precise terms. It also promotes careful analysis and the search for patterns and relationships, skills necessary for success both inside and outside the classroom."
+      },
+      {
+        "title": "Mathematics as Inquiry",
+        "text": "Studying mathematics should be more than simply learning formulae or rules. Students should be active participants in the search for concepts and relationships — mathematics becomes a subject alive with the thrill of exploration and the rewards of discovery. MYP mathematics promotes both inquiry and application, helping students to develop problem-solving techniques that transcend the discipline and are useful in the world outside school.",
+       "progression_table": {
+        "headers": [
+            "MYP Year 1",
+            "MYP Year 3",
+            "MYP Year 5"
+        ],
+        "rows": [
+            [
+            "Students build foundational knowledge and skills through sequential learning.",
+            "Students connect and extend knowledge through increasingly complex units of work.",
+            "Students integrate multiple objectives and apply mathematics with greater independence and sophistication."
+            ],
+            [
+            "Students work with simpler models, representations and relationships in familiar contexts.",
+            "Students use broader mathematical tools and investigate trends, variables and patterns across contexts.",
+            "Students apply more advanced modelling, accuracy, prediction and technology in complex contexts."
+            ],
+            [
+            "Problem-solving is supported through structured tasks and guided inquiry.",
+            "Problem-solving increasingly involves selecting strategies and making connections across ideas.",
+            "Problem-solving requires independent choice of strategies, justification and reflection on validity and results."
+            ]
+        ]
+        }
+      },
+      {
+        "title": "Key and Related Concepts",
+        "text": "The key concepts contributed by the study of mathematics are Form, Logic and Relationships.",
+        "concepts": {
+          "key": [
+            "Form",
+            "Logic",
+            "Relationships"
+          ],
+          "related": [
+            {
+              "label": "Mathematics",
+              "items": [
+                {
+                  "name": "Approximation",
+                  "definition": "A quantity or a representation that is nearly but not exactly correct."
+                },
+                {
+                  "name": "Change",
+                  "definition": "A variation in size, amount or behaviour."
+                },
+                {
+                  "name": "Equivalence",
+                  "definition": "The state of being identically equal or interchangeable, applied to statements, quantities or expressions."
+                },
+                {
+                  "name": "Generalization",
+                  "definition": "A general statement made on the basis of specific examples."
+                },
+                {
+                  "name": "Models",
+                  "definition": "Depictions of real-life events using expressions, equations or graphs."
+                },
+                {
+                  "name": "Patterns",
+                  "definition": "Sets of numbers or objects that follow a specific order or rule."
+                },
+                {
+                  "name": "Quantity",
+                  "definition": "An amount or number."
+                },
+                {
+                  "name": "Representation",
+                  "definition": "The manner in which something is presented."
+                },
+                {
+                  "name": "Simplification",
+                  "definition": "The process of reducing to a less complicated form."
+                },
+                {
+                  "name": "Space",
+                  "definition": "The frame of geometrical dimensions describing an entity."
+                },
+                {
+                  "name": "Systems",
+                  "definition": "Groups of interrelated elements."
+                },
+                {
+                  "name": "Validity",
+                  "definition": "Using well-founded, logical mathematics to come to a true and accurate conclusion or a reasonable interpretation of results."
+                }
+              ]
+            }
+          ],
+          "key_definitions": [
+            {
+              "name": "Form",
+              "definition": "The shape and underlying structure of an entity or piece of work. In mathematics, the understanding that the underlying structure and shape of an entity is distinguished by its properties."
+            },
+            {
+              "name": "Logic",
+              "definition": "A method of reasoning and a system of principles used to build arguments and reach conclusions. Used as a process in making decisions about numbers, shapes and variables."
+            },
+            {
+              "name": "Relationships",
+              "definition": "The connections between quantities, properties or concepts, which may be expressed as models, rules or statements. Provides opportunities to explore patterns in the world around them."
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "assessment_overview": {
+    "intro": "Each criterion has eight possible achievement levels (1–8), divided into four bands representing performance that is: limited (1–2), adequate (3–4), substantial (5–6), and excellent (7–8). Each band has its own unique descriptor used to make best-fit judgments.",
+    "requirement": "Subject groups must assess all strands of all four assessment criteria at least twice in each year of the MYP."
+  },
+  "phases": [
+    {
+      "id": "ku",
+      "label": "Knowing &\nUnderstanding",
+      "criterion": "Criterion A",
+      "color": "#4A90C4",
+      "light": "#cde3f5",
+      "description": "Knowledge and understanding are fundamental to studying mathematics and form the base from which to explore concepts and develop skills. This objective assesses the extent to which students can select and apply mathematics to solve problems in both familiar and unfamiliar situations in a variety of contexts.",
+      "nodes": [
+        {
+          "label": "Select",
+          "detail": "appropriate mathematics",
+          "strand_full": "Select appropriate mathematics when solving problems in both familiar and unfamiliar situations.",
+          "description": "Students identify which mathematical concepts, skills or techniques are relevant to a given problem. Selection requires understanding of when and why a particular approach applies — not just executing a memorised procedure.",
+          "progression": {
+            "y1": "Select appropriate mathematics when solving problems in both familiar and unfamiliar situations.",
+            "y3": "Select appropriate mathematics when solving problems in both familiar and unfamiliar situations.",
+            "y5": "Select appropriate mathematics when solving problems in both familiar and unfamiliar situations."
+          }
+        },
+        {
+          "label": "Apply",
+          "detail": "mathematics successfully",
+          "strand_full": "Apply the selected mathematics successfully when solving problems.",
+          "description": "Students carry out the selected mathematical approach accurately and completely. Successful application means the method is executed correctly, not just identified.",
+          "progression": {
+            "y1": "Apply the selected mathematics successfully when solving problems.",
+            "y3": "Apply the selected mathematics successfully when solving problems.",
+            "y5": "Apply the selected mathematics successfully when solving problems."
+          }
+        },
+        {
+          "label": "Solve",
+          "detail": "problems in varied contexts",
+          "strand_full": "Solve problems correctly in a variety of contexts.",
+          "description": "Students arrive at correct solutions across numerical and abstract reasoning, thinking with models, spatial reasoning, and reasoning with data — the four branches of the MYP mathematics framework.",
+          "progression": {
+            "y1": "Solve problems correctly in a variety of contexts.",
+            "y3": "Solve problems correctly in a variety of contexts.",
+            "y5": "Solve problems correctly in a variety of contexts."
+          }
+        }
+      ],
+      "levels": {
+        "y1": [
+          {
+            "band": "1–2",
+            "text": "Selects appropriate mathematics when solving simple problems in familiar situations; applies the selected mathematics successfully; generally solves these problems correctly in a variety of contexts."
+          },
+          {
+            "band": "3–4",
+            "text": "Selects appropriate mathematics when solving more complex problems in familiar situations; applies the selected mathematics successfully; generally solves these problems correctly in a variety of contexts."
+          },
+          {
+            "band": "5–6",
+            "text": "Selects appropriate mathematics when solving challenging problems in familiar situations; applies the selected mathematics successfully; generally solves these problems correctly in a variety of contexts."
+          },
+          {
+            "band": "7–8",
+            "text": "Selects appropriate mathematics when solving challenging problems in both familiar and unfamiliar situations; applies the selected mathematics successfully; generally solves these problems correctly in a variety of contexts."
+          }
+        ],
+        "y3": [
+          {
+            "band": "1–2",
+            "text": "Selects appropriate mathematics when solving simple problems in familiar situations; applies the selected mathematics successfully; generally solves these problems correctly in a variety of contexts."
+          },
+          {
+            "band": "3–4",
+            "text": "Selects appropriate mathematics when solving more complex problems in familiar situations; applies the selected mathematics successfully; generally solves these problems correctly in a variety of contexts."
+          },
+          {
+            "band": "5–6",
+            "text": "Selects appropriate mathematics when solving challenging problems in familiar situations; applies the selected mathematics successfully; generally solves these problems correctly in a variety of contexts."
+          },
+          {
+            "band": "7–8",
+            "text": "Selects appropriate mathematics when solving challenging problems in both familiar and unfamiliar situations; applies the selected mathematics successfully; generally solves these problems correctly in a variety of contexts."
+          }
+        ],
+        "y5": [
+          {
+            "band": "1–2",
+            "text": "Selects appropriate mathematics when solving simple problems in familiar situations; applies the selected mathematics successfully; generally solves these problems correctly in a variety of contexts."
+          },
+          {
+            "band": "3–4",
+            "text": "Selects appropriate mathematics when solving more complex problems in familiar situations; applies the selected mathematics successfully; generally solves these problems correctly in a variety of contexts."
+          },
+          {
+            "band": "5–6",
+            "text": "Selects appropriate mathematics when solving challenging problems in familiar situations; applies the selected mathematics successfully; generally solves these problems correctly in a variety of contexts."
+          },
+          {
+            "band": "7–8",
+            "text": "Selects appropriate mathematics when solving challenging problems in both familiar and unfamiliar situations; applies the selected mathematics successfully; generally solves these problems correctly in a variety of contexts."
+          }
+        ]
+      }
+    },
+    {
+      "id": "ip",
+      "label": "Investigating\nPatterns",
+      "criterion": "Criterion B",
+      "color": "#E8A44A",
+      "light": "#fae3bc",
+      "description": "Investigating patterns allows students to experience the excitement and satisfaction of mathematical discovery. Working through investigations encourages students to become risk-takers, inquirers and critical thinkers. The ability to inquire is invaluable in the MYP and contributes to lifelong learning.",
+      "nodes": [
+        {
+          "label": "Select and apply",
+          "detail": "problem-solving techniques",
+          "strand_full": "Select and apply mathematical problem-solving techniques to discover complex patterns.",
+          "description": "Students choose and use appropriate investigative techniques to explore mathematical situations and uncover patterns. The investigation must allow students to select their own technique — overly guided tasks cap achievement at level 6 (Y1–2) or level 4 (Y3+).",
+          "progression": {
+            "y1": "Apply mathematical problem-solving techniques to recognize patterns.",
+            "y3": "Select and apply mathematical problem-solving techniques to discover complex patterns.",
+            "y5": "Select and apply mathematical problem-solving techniques to discover complex patterns."
+          }
+        },
+        {
+          "label": "Describe",
+          "detail": "patterns as general rules",
+          "strand_full": "Describe patterns as general rules consistent with findings.",
+          "description": "Students articulate a general rule that captures the pattern they have found, expressed in mathematical or precise language. The rule must be consistent with the evidence gathered during the investigation.",
+          "progression": {
+            "y1": "Describe patterns as relationships or general rules consistent with findings.",
+            "y3": "Describe patterns as relationships and/or general rules consistent with findings.",
+            "y5": "Describe patterns as general rules consistent with findings."
+          }
+        },
+        {
+          "label": "Prove or justify",
+          "detail": "general rules",
+          "strand_full": "Prove, or verify and justify, general rules.",
+          "description": "Students demonstrate why their general rule holds — either through formal proof or through systematic verification and justification. This distinguishes pattern recognition from mathematical reasoning.",
+          "progression": {
+            "y1": "Verify whether the pattern works for other examples.",
+            "y3": "Verify and justify relationships and/or general rules.",
+            "y5": "Prove, or verify and justify, general rules."
+          }
+        }
+      ],
+      "levels": {
+        "y1": [
+          {
+            "band": "1–2",
+            "text": "Applies, with teacher support, mathematical problem-solving techniques to recognize simple patterns; states predictions consistent with simple patterns."
+          },
+          {
+            "band": "3–4",
+            "text": "Applies mathematical problem-solving techniques to recognize patterns; suggests how these patterns work."
+          },
+          {
+            "band": "5–6",
+            "text": "Applies mathematical problem-solving techniques to recognize patterns; suggests relationships or general rules consistent with findings; verifies whether patterns work for another example."
+          },
+          {
+            "band": "7–8",
+            "text": "Selects and applies mathematical problem-solving techniques to recognize correct patterns; describes patterns as relationships or general rules consistent with correct findings; verifies whether patterns work for other examples."
+          }
+        ],
+        "y3": [
+          {
+            "band": "1–2",
+            "text": "Applies, with teacher support, mathematical problem-solving techniques to discover simple patterns; states predictions consistent with patterns."
+          },
+          {
+            "band": "3–4",
+            "text": "Applies mathematical problem-solving techniques to discover simple patterns; suggests relationships and/or general rules consistent with findings."
+          },
+          {
+            "band": "5–6",
+            "text": "Selects and applies mathematical problem-solving techniques to discover complex patterns; describes patterns as relationships and/or general rules consistent with findings; verifies these relationships and/or general rules."
+          },
+          {
+            "band": "7–8",
+            "text": "Selects and applies mathematical problem-solving techniques to discover complex patterns; describes patterns as relationships and/or general rules consistent with correct findings; verifies and justifies these relationships and/or general rules."
+          }
+        ],
+        "y5": [
+          {
+            "band": "1–2",
+            "text": "Applies, with teacher support, mathematical problem-solving techniques to discover simple patterns; states predictions consistent with patterns."
+          },
+          {
+            "band": "3–4",
+            "text": "Applies mathematical problem-solving techniques to discover simple patterns; suggests general rules consistent with findings."
+          },
+          {
+            "band": "5–6",
+            "text": "Selects and applies mathematical problem-solving techniques to discover complex patterns; describes patterns as general rules consistent with findings; verifies the validity of these general rules."
+          },
+          {
+            "band": "7–8",
+            "text": "Selects and applies mathematical problem-solving techniques to discover complex patterns; describes patterns as general rules consistent with correct findings; proves, or verifies and justifies, these general rules."
+          }
+        ]
+      }
+    },
+    {
+      "id": "cm",
+      "label": "Communicating\nMathematics",
+      "criterion": "Criterion C",
+      "color": "#6AAF6A",
+      "light": "#c8e8c8",
+      "description": "Mathematics provides a powerful and universal language. Students are expected to use appropriate mathematical language and different forms of representation when communicating mathematical ideas, reasoning and findings, both orally and in writing.",
+      "nodes": [
+        {
+          "label": "Use",
+          "detail": "mathematical language",
+          "strand_full": "Use appropriate mathematical language (notation, symbols and terminology) in both oral and written explanations.",
+          "description": "Students communicate using correct notation, symbols and terminology suited to the mathematical context. Precision of language is itself a mathematical skill.",
+          "progression": {
+            "y1": "Use appropriate mathematical language in both oral and written statements.",
+            "y3": "Use appropriate mathematical language in both oral and written explanations.",
+            "y5": "Use appropriate mathematical language in both oral and written explanations."
+          }
+        },
+        {
+          "label": "Use",
+          "detail": "forms of representation",
+          "strand_full": "Use appropriate forms of mathematical representation to present information.",
+          "description": "Students select and use representations — tables, graphs, diagrams, equations — appropriate to the mathematical context and audience.",
+          "progression": {
+            "y1": "Use appropriate forms of mathematical representation to present information.",
+            "y3": "Use appropriate forms of mathematical representation to present information.",
+            "y5": "Use appropriate forms of mathematical representation to present information."
+          }
+        },
+        {
+          "label": "Move between",
+          "detail": "forms of representation",
+          "strand_full": "Move between different forms of mathematical representation.",
+          "description": "Students fluently translate between representations — e.g. from a table to a graph to an equation. This strand is not demonstrated at Year 1.",
+          "progression": {
+            "y1": "Not demonstrated at Year 1.",
+            "y3": "Move between different forms of mathematical representation.",
+            "y5": "Move between different forms of mathematical representation."
+          }
+        },
+        {
+          "label": "Communicate",
+          "detail": "lines of reasoning",
+          "strand_full": "Communicate complete, coherent and concise mathematical lines of reasoning.",
+          "description": "Students present mathematical arguments that are complete, coherent and concise. The expected standard increases across year groups — coherent and complete at Y3, adding concise at Y5.",
+          "progression": {
+            "y1": "Communicate coherent mathematical lines of reasoning.",
+            "y3": "Communicate complete and coherent mathematical lines of reasoning.",
+            "y5": "Communicate complete, coherent and concise mathematical lines of reasoning."
+          }
+        },
+        {
+          "label": "Organise",
+          "detail": "using a logical structure",
+          "strand_full": "Organise information using a logical structure.",
+          "description": "Students structure their work so the mathematical argument is presented in a clear, logical sequence. This strand is not demonstrated at Year 1.",
+          "progression": {
+            "y1": "Organise information using a logical structure.",
+            "y3": "Organise information using a logical structure.",
+            "y5": "Organise information using a logical structure."
+          }
+        }
+      ],
+      "levels": {
+        "y1": [
+          {
+            "band": "1–2",
+            "text": "Uses limited mathematical language; uses limited forms of mathematical representation to present information; communicates through lines of reasoning that are difficult to understand."
+          },
+          {
+            "band": "3–4",
+            "text": "Uses some appropriate mathematical language; uses appropriate forms of mathematical representation to present information adequately; communicates through lines of reasoning that are able to be understood, although not always coherent; adequately organizes information using a logical structure."
+          },
+          {
+            "band": "5–6",
+            "text": "Usually uses appropriate mathematical language; usually uses appropriate forms of mathematical representation to present information correctly; communicates through lines of reasoning that are usually coherent; presents work that is usually organized using a logical structure."
+          },
+          {
+            "band": "7–8",
+            "text": "Consistently uses appropriate mathematical language; consistently uses appropriate forms of mathematical representation to present information correctly; communicates clearly through coherent lines of reasoning; presents work that is consistently organized using a logical structure."
+          }
+        ],
+        "y3": [
+          {
+            "band": "1–2",
+            "text": "Uses limited mathematical language; uses limited forms of mathematical representation to present information; communicates through lines of reasoning that are difficult to interpret."
+          },
+          {
+            "band": "3–4",
+            "text": "Uses some appropriate mathematical language; uses appropriate forms of mathematical representation to present information adequately; communicates through lines of reasoning that are able to be understood, although not always clear; adequately organizes information using a logical structure."
+          },
+          {
+            "band": "5–6",
+            "text": "Usually uses appropriate mathematical language; usually uses appropriate forms of mathematical representation to present information correctly; moves between different forms of mathematical representation with some success; communicates through lines of reasoning that are clear although not always coherent or complete; presents work that is usually organized using a logical structure."
+          },
+          {
+            "band": "7–8",
+            "text": "Consistently uses appropriate mathematical language; uses appropriate forms of mathematical representation to consistently present information correctly; moves effectively between different forms of mathematical representation; communicates through lines of reasoning that are complete and coherent; presents work that is consistently organized using a logical structure."
+          }
+        ],
+        "y5": [
+          {
+            "band": "1–2",
+            "text": "Uses limited mathematical language; uses limited forms of mathematical representation to present information; communicates through lines of reasoning that are difficult to interpret."
+          },
+          {
+            "band": "3–4",
+            "text": "Uses some appropriate mathematical language; uses appropriate forms of mathematical representation to present information adequately; communicates through lines of reasoning that are complete; adequately organizes information using a logical structure."
+          },
+          {
+            "band": "5–6",
+            "text": "Usually uses appropriate mathematical language; usually uses appropriate forms of mathematical representation to present information correctly; usually moves between different forms of mathematical representation; communicates through lines of reasoning that are complete and coherent; presents work that is usually organized using a logical structure."
+          },
+          {
+            "band": "7–8",
+            "text": "Consistently uses appropriate mathematical language; uses appropriate forms of mathematical representation to consistently present information correctly; moves effectively between different forms of mathematical representation; communicates through lines of reasoning that are complete, coherent and concise; presents work that is consistently organized using a logical structure."
+          }
+        ]
+      }
+    },
+    {
+      "id": "ap",
+      "label": "Applying in\nReal-life Contexts",
+      "criterion": "Criterion D",
+      "color": "#C96060",
+      "light": "#f5c8c8",
+      "description": "MYP mathematics encourages students to see mathematics as a tool for solving problems in an authentic real-life context. Students are expected to transfer theoretical mathematical knowledge into real-world situations and apply appropriate problem-solving strategies, draw valid conclusions and reflect upon their results.",
+      "nodes": [
+        {
+          "label": "Identify",
+          "detail": "relevant elements",
+          "strand_full": "Identify relevant elements of authentic real-life situations.",
+          "description": "Students recognise which features of a real-world situation are mathematically significant. This requires deliberate choices about what to include in the mathematical model.",
+          "progression": {
+            "y1": "Identify relevant elements of authentic real-life situations.",
+            "y3": "Identify relevant elements of authentic real-life situations.",
+            "y5": "Identify relevant elements of authentic real-life situations."
+          }
+        },
+        {
+          "label": "Select",
+          "detail": "mathematical strategies",
+          "strand_full": "Select appropriate mathematical strategies when solving authentic real-life situations.",
+          "description": "Students choose suitable mathematical approaches for the real-world context. Strategy selection is not demonstrated at Year 1 band 1–4.",
+          "progression": {
+            "y1": "Select appropriate mathematical strategies when solving authentic real-life situations.",
+            "y3": "Select appropriate mathematical strategies when solving authentic real-life situations.",
+            "y5": "Select appropriate mathematical strategies when solving authentic real-life situations."
+          }
+        },
+        {
+          "label": "Apply",
+          "detail": "strategies to reach a solution",
+          "strand_full": "Apply the selected mathematical strategies successfully to reach a solution.",
+          "description": "Students carry out their chosen strategy correctly to arrive at a valid or correct solution. The qualifier shifts from \"valid\" (Y1/Y3) to \"correct\" (Y5).",
+          "progression": {
+            "y1": "Apply the selected mathematical strategies successfully to reach a solution.",
+            "y3": "Apply the selected mathematical strategies successfully to reach a solution.",
+            "y5": "Apply the selected mathematical strategies successfully to reach a solution."
+          }
+        },
+        {
+          "label": "Justify",
+          "detail": "degree of accuracy",
+          "strand_full": "Justify the degree of accuracy of a solution.",
+          "description": "Students evaluate whether the level of precision in their answer is appropriate for the real-world context. Command term progresses: explain (Y1) → describe (Y3) → explain (Y3 7-8) → justify (Y5).",
+          "progression": {
+            "y1": "Explain the degree of accuracy of a solution.",
+            "y3": "Explain the degree of accuracy of a solution.",
+            "y5": "Justify the degree of accuracy of a solution."
+          }
+        },
+        {
+          "label": "Justify",
+          "detail": "whether solution makes sense",
+          "strand_full": "Justify whether a solution makes sense in the context of the authentic real-life situation.",
+          "description": "Students reflect on whether their answer is reasonable given the real-world situation. A mathematically correct answer that makes no real-world sense is not fully justified. Command term progresses: describe → discuss → justify.",
+          "progression": {
+            "y1": "Describe whether a solution makes sense in the context of the authentic real-life situation.",
+            "y3": "Explain whether a solution makes sense in the context of the authentic real-life situation.",
+            "y5": "Justify whether a solution makes sense in the context of the authentic real-life situation."
+          }
+        }
+      ],
+      "levels": {
+        "y1": [
+          {
+            "band": "1–2",
+            "text": "Identifies some elements of the authentic real-life situation; applies mathematical strategies to find a solution, with limited success."
+          },
+          {
+            "band": "3–4",
+            "text": "Identifies the relevant elements of the authentic real-life situation; applies mathematical strategies to reach a solution; states, but not always correctly, whether the solution makes sense in the context."
+          },
+          {
+            "band": "5–6",
+            "text": "Identifies the relevant elements; selects adequate mathematical strategies to model the situation; applies them to reach a valid solution; describes the degree of accuracy; states correctly whether the solution makes sense in the context."
+          },
+          {
+            "band": "7–8",
+            "text": "Identifies the relevant elements; selects adequate mathematical strategies to model the situation; applies them to reach a correct solution; explains the degree of accuracy; describes correctly whether the solution makes sense in the context."
+          }
+        ],
+        "y3": [
+          {
+            "band": "1–2",
+            "text": "Identifies some elements of the authentic real-life situation; applies mathematical strategies to find a solution, with limited success."
+          },
+          {
+            "band": "3–4",
+            "text": "Identifies the relevant elements; selects, with some success, adequate mathematical strategies to model the situation; applies mathematical strategies to reach a solution; describes whether the solution makes sense in the context."
+          },
+          {
+            "band": "5–6",
+            "text": "Identifies the relevant elements; selects adequate mathematical strategies to model the situation; applies them to reach a valid solution; describes the degree of accuracy; discusses whether the solution makes sense in the context."
+          },
+          {
+            "band": "7–8",
+            "text": "Identifies the relevant elements; selects appropriate mathematical strategies to model the situation; applies them to reach a correct solution; explains the degree of accuracy; explains whether the solution makes sense in the context."
+          }
+        ],
+        "y5": [
+          {
+            "band": "1–2",
+            "text": "Identifies some elements of the authentic real-life situation; applies mathematical strategies to find a solution, with limited success."
+          },
+          {
+            "band": "3–4",
+            "text": "Identifies the relevant elements; selects, with some success, adequate mathematical strategies to model the situation; applies mathematical strategies to reach a solution; discusses whether the solution makes sense in the context."
+          },
+          {
+            "band": "5–6",
+            "text": "Identifies the relevant elements; selects adequate mathematical strategies to model the situation; applies them to reach a valid solution; explains the degree of accuracy; explains whether the solution makes sense in the context."
+          },
+          {
+            "band": "7–8",
+            "text": "Identifies the relevant elements; selects appropriate mathematical strategies to model the situation; applies them to reach a correct solution; justifies the degree of accuracy; justifies whether the solution makes sense in the context."
+          }
+        ]
+      }
+    }
+  ]
+}

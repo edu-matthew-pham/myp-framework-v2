@@ -1,0 +1,599 @@
+{
+  "title": "MYP Design Cycle",
+  "subtitle": "Learning Map",
+  "overview": {
+    "title": "MYP Design Overview",
+    "description": "Select a phase from the diagram to explore, or click the centre circle to return to this overview.",
+    "sections": [
+      {
+        "title": "Programme Model",
+        "quote": "The MYP is flexible enough to accommodate the demands of most national or local curriculums.",
+        "text": "The programme is structured around concepts, global contexts and approaches to learning (ATL). Learning is inquiry-based and connected to real-world contexts."
+      },
+      {
+        "title": "Nature of Design",
+        "quote": "MYP design challenges all students to apply practical and creative thinking skills to solve design problems.",
+        "text": "Design involves identifying problems, exploring design ideas, developing solutions and evaluating outcomes."
+      },
+      {
+        "title": "Design Cycle",
+        "quote": "While the design cycle includes several successive stages, the design cycle is an iterative and cyclical process.",
+        "text": "Students move flexibly within and between phases, revisiting strands as they refine ideas, test solutions and respond to feedback."
+      },
+      {
+        "title": "Curriculum Planning",
+        "text": "The table below shows how teaching and learning experiences and expected outcomes should progress from the earlier years to the final years of the MYP.",
+        "progression_table": {
+          "headers": [
+            "MYP year 1",
+            "MYP year 3",
+            "MYP year 5"
+          ],
+          "rows": [
+            [
+              "Emphasis placed on individual strands of the objectives.",
+              "Emphasis placed on addressing individual objectives.",
+              "The objectives are fully addressed."
+            ],
+            [
+              "Students explore contrived, teacher-led design challenges set in familiar contexts.",
+              "Students explore identified, real-life problems set in familiar and unfamiliar contexts.",
+              "Students independently explore complex real-life problems set in unfamiliar contexts."
+            ],
+            [
+              "Students design for themselves.",
+              "Students design products for familiar groups of people.",
+              "Students design products for a client or an identified target audience."
+            ],
+            [
+              "Students focus on skill development through focused tasks.",
+              "Students focus on advanced skill development through projects and short, focused tasks.",
+              "Students utilize a wide range of skills and apply them to a wide range of design situations."
+            ],
+            [
+              "Students are guided through units using structured templates.",
+              "Students can manage their own work organizing their time and folio appropriately.",
+              "Students independently manage their own work."
+            ],
+            [
+              "Teacher as leader and trainer.",
+              "Teacher as guide and advisor.",
+              "Teacher as facilitator."
+            ]
+          ]
+        }
+      },
+      {
+        "title": "Key and Related Concepts",
+        "text": "The key concepts contributed by the study of design are Communication, Communities, Development and Systems.",
+        "concepts": {
+          "key": [
+            "Communication",
+            "Communities",
+            "Development",
+            "Systems"
+          ],
+          "related": [
+            {
+              "label": "Design",
+              "items": [
+                {
+                  "name": "Adaptation",
+                  "definition": "Adaptation involves incorporating ideas found in one product into the development of a new product."
+                },
+                {
+                  "name": "Collaboration",
+                  "definition": "Collaboration involves two or more people sharing expertise and experience, working together to solve a problem and realize shared goals."
+                },
+                {
+                  "name": "Ergonomics",
+                  "definition": "The application of scientific information and understanding of how humans relate to products, systems, interfaces and environments."
+                },
+                {
+                  "name": "Evaluation",
+                  "definition": "In design, evaluation involves the gathering and processing of data to determine an action. Evaluation involves feedback, which can be used to control, revise or modify."
+                },
+                {
+                  "name": "Form",
+                  "definition": "Form concerns the overall shape and configuration of a product. It relates to aspects such as aesthetics, shape, colour and texture."
+                },
+                {
+                  "name": "Function",
+                  "definition": "The function of a solution refers to what it has been designed to do and how effective it is at enabling that action to be performed."
+                },
+                {
+                  "name": "Innovation",
+                  "definition": "Innovation is the successful diffusion of an invention into the marketplace."
+                },
+                {
+                  "name": "Invention",
+                  "definition": "An invention is an entirely novel product or a feature of a product that is unique."
+                },
+                {
+                  "name": "Markets and trends",
+                  "definition": "Markets can be considered as sectors and segments comprised of groups of individuals with similar needs. Trends involve short- and long-term patterns of consumer behaviour."
+                },
+                {
+                  "name": "Perspective",
+                  "definition": "Perspective relates to the point of view of various stakeholders involved in solving a problem — including clients, target audiences, focus groups, consumers, manufacturers and experts."
+                },
+                {
+                  "name": "Resources",
+                  "definition": "Resources relate to the supply of a commodity. In MYP design, these commodities can be classified as information, materials and equipment."
+                },
+                {
+                  "name": "Sustainability",
+                  "definition": "Sustainability is the capacity to endure, with environmental, economic and social dimensions. In design this encompasses green and eco-design, sustainable consumption, design, development, innovation and production."
+                }
+              ]
+            }
+          ],
+          "key_definitions": [
+            {
+              "name": "Communication",
+              "definition": "The exchange or transfer of signals, facts, ideas and symbols. In design, students develop awareness of how, why and when clear messages must be given and received throughout the design process — from identifying the need, through developing ideas, to ensuring the final product clearly communicates its intent and how a user interacts with it."
+            },
+            {
+              "name": "Communities",
+              "definition": "Groups that exist in proximity defined by space, time or relationship. In design, students understand that a solution for one community may create problems for another. The community affects the design (as target audience) and is affected by it — both must be considered from brief to evaluation."
+            },
+            {
+              "name": "Development",
+              "definition": "The act or process of growth, progress or evolution, sometimes through iterative improvements. In design, development is not confined to Criterion B — students develop research plans, adapt creation plans, and develop testing methods across all phases of the design cycle."
+            },
+            {
+              "name": "Systems",
+              "definition": "Sets of interacting or interdependent components that provide structure and order. Products and solutions are systems of components combined to carry out a specific function. The design cycle itself is a system. Open loop systems have input, process and output; closed loop systems add a feedback mechanism."
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "assessment_overview": {
+    "intro": "Each criterion has eight possible achievement levels (1–8), divided into four bands representing performance that is: limited (1–2), adequate (3–4), substantial (5–6), and excellent (7–8). Each band has its own unique descriptor used to make best-fit judgments.",
+    "requirement": "Subject groups must assess all strands of all four assessment criteria at least twice in each year of the MYP."
+  },
+  "phases": [
+    {
+      "id": "ia",
+      "label": "Inquiring &\nAnalysing",
+      "criterion": "Criterion A",
+      "color": "#4A90C4",
+      "light": "#cde3f5",
+      "description": "Students are presented with a design situation, from which they identify a problem that needs to be solved. They analyse the need for a solution and conduct an inquiry into the nature of the problem.",
+      "nodes": [
+        {
+          "label": "Explain and justify",
+          "detail": "the need",
+          "description": "Students identify and articulate a genuine need or design opportunity for a specified client or target audience. They explain why the need exists, who it affects, and justify why addressing it is worthwhile with supporting evidence and context.",
+          "progression": {
+            "y1": "States or outlines a basic need for a solution. Justification is limited, emerging or partly implied.",
+            "y3": "Explains the need more clearly and begins to justify it with reference to context, user need or research.",
+            "y5": "Explains and justifies the need in detail for a specified client or target audience, supported by strong contextual reasoning."
+          },
+          "strand_full": "Explain and justify the need for a solution to a problem for a specified client/target audience."
+        },
+        {
+          "label": "Identify and prioritize",
+          "detail": "the research",
+          "description": "Students determine what primary and secondary research is needed to develop a solution, then rank priorities. Constructing a research plan focuses inquiry rather than collecting information indiscriminately.",
+          "progression": {
+            "y1": "States the main points of research needed, often with teacher guidance.",
+            "y3": "Constructs a research plan that identifies and prioritises primary and secondary research with growing independence.",
+            "y5": "Independently identifies and prioritises detailed primary and secondary research appropriate to the client, context and problem."
+          },
+          "strand_full": "Identify and prioritize the primary and secondary research needed to develop a solution to the problem."
+        },
+        {
+          "label": "Analyse",
+          "detail": "existing products",
+          "description": "Students examine a range of comparable or related existing products against relevant criteria. Analysis should go beyond description to evaluate what works, what doesn't, and what informs their own design thinking.",
+          "progression": {
+            "y1": "Describes the main features of one existing product that inspires a solution.",
+            "y3": "Analyses a group of similar products, moving beyond simple description.",
+            "y5": "Analyses a range of existing products in detail, drawing relevant insights to inform design decisions."
+          },
+          "strand_full": "Analyse a range of existing products that inspire a solution to the problem."
+        },
+        {
+          "label": "Develop",
+          "detail": "a Design Brief",
+          "description": "Students synthesise their research into a detailed design brief that summarises the analysis of relevant research. The brief defines the problem, user, context and constraints — anchoring all subsequent design decisions.",
+          "progression": {
+            "y1": "Presents the main findings of relevant research in a simple or emerging brief.",
+            "y3": "Develops a design brief that presents or outlines the analysis of research findings.",
+            "y5": "Develops a detailed design brief that clearly summarises and synthesises relevant research analysis."
+          },
+          "strand_full": "Develop a detailed design brief which summarizes the analysis of relevant research."
+        }
+      ],
+      "levels": {
+        "y1": [
+          {
+            "band": "1–2",
+            "text": "States the need for a solution to a problem; states the findings of research."
+          },
+          {
+            "band": "3–4",
+            "text": "Outlines the need for a solution to a problem; states some points of research needed to develop a solution, with some guidance; states the main features of an existing product that inspires a solution to the problem; outlines some of the main findings of research."
+          },
+          {
+            "band": "5–6",
+            "text": "Explains the need for a solution to a problem; states and prioritizes the main points of research needed to develop a solution to the problem, with some guidance; outlines the main features of an existing product that inspires a solution to the problem; outlines the main findings of relevant research."
+          },
+          {
+            "band": "7–8",
+            "text": "Explains and justifies the need for a solution to a problem; states and prioritizes the main points of research needed to develop a solution to the problem, with minimal guidance; describes the main features of an existing product that inspires a solution to the problem; presents the main findings of relevant research."
+          }
+        ],
+        "y3": [
+          {
+            "band": "1–2",
+            "text": "States the need for a solution to a problem; states some of the main findings of relevant research."
+          },
+          {
+            "band": "3–4",
+            "text": "Outlines the need for a solution to a problem; states the research needed to develop a solution to the problem, with some guidance; outlines one existing product that inspires a solution to the problem; develops a basic design brief, which outlines some of the findings of relevant research."
+          },
+          {
+            "band": "5–6",
+            "text": "Explains the need for a solution to a problem; constructs a research plan, which states and prioritizes the primary and secondary research needed to develop a solution to the problem, with some guidance; describes a group of similar products that inspire a solution to the problem; develops a design brief, which outlines the findings of relevant research."
+          },
+          {
+            "band": "7–8",
+            "text": "Explains and justifies the need for a solution to a problem; constructs a research plan, which states and prioritizes the primary and secondary research needed to develop a solution to the problem independently; analyses a group of similar products that inspire a solution to the problem; develops a design brief, which presents the analysis of relevant research."
+          }
+        ],
+        "y5": [
+          {
+            "band": "1–2",
+            "text": "States the need for a solution to a problem for a specified client/target audience; develops a basic design brief, which states the findings of relevant research."
+          },
+          {
+            "band": "3–4",
+            "text": "Outlines the need for a solution to a problem for a specified client/target audience; outlines a research plan, which identifies primary and secondary research needed to develop a solution to the problem, with some guidance; analyses one existing product that inspires a solution to the problem; develops a design brief, which outlines the analysis of relevant research."
+          },
+          {
+            "band": "5–6",
+            "text": "Explains the need for a solution to a problem for a specified client/target audience; constructs a research plan, which identifies and prioritizes primary and secondary research needed to develop a solution to the problem, with some guidance; analyses a range of existing products that inspire a solution to the problem; develops a design brief, which explains the analysis of relevant research."
+          },
+          {
+            "band": "7–8",
+            "text": "Explains and justifies the need for a solution to a problem for a client/target audience; constructs a detailed research plan, which identifies and prioritizes the primary and secondary research needed to develop a solution to the problem independently; analyses a range of existing products that inspire a solution to the problem in detail; develops a detailed design brief, which summarizes the analysis of relevant research."
+          }
+        ]
+      }
+    },
+    {
+      "id": "di",
+      "label": "Developing\nIdeas",
+      "criterion": "Criterion B",
+      "color": "#E8A44A",
+      "light": "#fae3bc",
+      "description": "Students develop and refine design ideas in response to a design problem. They generate, evaluate and communicate possible solutions, guided by a design specification.",
+      "nodes": [
+        {
+          "label": "Develop",
+          "detail": "a Design Specification",
+          "description": "Students translate the design brief into a precise, measurable set of success criteria and constraints. A strong specification is testable — each criterion can be objectively assessed when evaluating the final solution.",
+          "progression": {
+            "y1": "Develops or states a basic list of success criteria for the solution.",
+            "y3": "Develops a clearer design specification linked to collected data and success criteria.",
+            "y5": "Develops a detailed specification that clearly states and explains success criteria based on research analysis."
+          },
+          "strand_full": "Develop a design specification which clearly states the success criteria for the design of a solution."
+        },
+        {
+          "label": "Develop",
+          "detail": "Design Ideas",
+          "description": "Students generate a range of feasible design ideas using appropriate media and annotation. Ideas should be genuinely varied, correctly interpretable by others, and clearly responsive to the design specification.",
+          "progression": {
+            "y1": "Presents one or a few feasible design ideas with basic labels or key features.",
+            "y3": "Presents a broader range of feasible ideas, using appropriate media and clearer explanation.",
+            "y5": "Develops a strong range of feasible ideas with detailed annotation and clear interpretability."
+          },
+          "strand_full": "Develop a range of feasible design ideas which can be correctly interpreted by others."
+        },
+        {
+          "label": "Present",
+          "detail": "the Chosen Design",
+          "description": "Students select and justify their preferred design idea with detailed reference to the specification. The chosen design is presented clearly enough that someone else could construct it, with full justification for its selection.",
+          "progression": {
+            "y1": "Presents the chosen design and identifies or describes its key features.",
+            "y3": "Presents the chosen design and outlines reasons for selection with reference to the specification.",
+            "y5": "Presents the chosen design and justifies its selection fully and critically with detailed reference to the specification."
+          },
+          "strand_full": "Present the chosen design and justify its selection."
+        },
+        {
+          "label": "Develop",
+          "detail": "planning drawings/diagrams",
+          "description": "Students produce accurate and detailed planning drawings or diagrams that outline the requirements for creating the chosen solution — bridging the gap between design idea and production.",
+          "progression": {
+            "y1": "Creates a basic planning drawing or diagram showing main details.",
+            "y3": "Develops accurate planning drawings or diagrams that outline creation requirements.",
+            "y5": "Develops accurate and detailed planning drawings or diagrams that clearly support construction."
+          },
+          "strand_full": "Develop accurate and detailed planning drawings/diagrams and outline the requirements for the creation of the chosen solution."
+        }
+      ],
+      "levels": {
+        "y1": [
+          {
+            "band": "1–2",
+            "text": "States one basic success criterion for a solution; presents one design idea, which can be interpreted by others; creates an incomplete planning drawing/diagram."
+          },
+          {
+            "band": "3–4",
+            "text": "States a few success criteria for the solution; presents more than one design idea, using an appropriate medium(s) or labels key features, which can be interpreted by others; states the key features of the chosen design; creates a planning drawing/diagram or lists requirements for the creation of the chosen solution."
+          },
+          {
+            "band": "5–6",
+            "text": "Develops a few success criteria for the solution; presents a few feasible design ideas, using an appropriate medium(s) and labels key features, which can be interpreted by others; presents the chosen design stating the key features; creates a planning drawing/diagram and lists the main details for the creation of the chosen solution."
+          },
+          {
+            "band": "7–8",
+            "text": "Develops a list of success criteria for the solution; presents feasible design ideas, using an appropriate medium(s) and outlines the key features, which can be correctly interpreted by others; presents the chosen design describing the key features; creates a planning drawing/diagram, which outlines the main details for making the chosen solution."
+          }
+        ],
+        "y3": [
+          {
+            "band": "1–2",
+            "text": "Lists a few basic success criteria for the design of a solution; presents one design idea, which can be interpreted by others; creates incomplete planning drawings/diagrams."
+          },
+          {
+            "band": "3–4",
+            "text": "Constructs a list of the success criteria for the design of a solution; presents a few feasible design ideas, using an appropriate medium(s) or explains key features, which can be interpreted by others; outlines the main reasons for choosing the design with reference to the design specification; creates planning drawings/diagrams or lists requirements for the chosen solution."
+          },
+          {
+            "band": "5–6",
+            "text": "Develops design specifications, which identify the success criteria for the design of a solution; presents a range of feasible design ideas, using an appropriate medium(s) and explains key features, which can be interpreted by others; presents the chosen design and outlines the main reasons for its selection with reference to the design specification; develops accurate planning drawings/diagrams and lists requirements for the creation of the chosen solution."
+          },
+          {
+            "band": "7–8",
+            "text": "Develops a design specification which outlines the success criteria for the design of a solution based on the data collected; presents a range of feasible design ideas, using an appropriate medium(s) and annotation, which can be correctly interpreted by others; presents the chosen design and outlines the reasons for its selection with reference to the design specification; develops accurate planning drawings/diagrams and outlines requirements for the creation of the chosen solution."
+          }
+        ],
+        "y5": [
+          {
+            "band": "1–2",
+            "text": "Lists some basic design specifications for the design of a solution; presents one design, which can be interpreted by others; creates incomplete planning drawings/diagrams."
+          },
+          {
+            "band": "3–4",
+            "text": "Lists some design specifications, which relate to the success criteria for the design of a solution; presents a few feasible designs, using an appropriate medium(s) or annotation, which can be interpreted by others; justifies the selection of the chosen design with reference to the design specification; creates planning drawings/diagrams or lists requirements for the creation of the chosen solution."
+          },
+          {
+            "band": "5–6",
+            "text": "Develops design specifications, which outline the success criteria for the design of a solution; develops a range of feasible design ideas, using an appropriate medium(s) and annotation, which can be interpreted by others; presents the chosen design and justifies its selection with reference to the design specification; develops accurate planning drawings/diagrams and lists requirements for the creation of the chosen solution."
+          },
+          {
+            "band": "7–8",
+            "text": "Develops detailed design specifications, which explain the success criteria for the design of a solution based on the analysis of the research; develops a range of feasible design ideas, using an appropriate medium(s) and detailed annotation, which can be correctly interpreted by others; presents the chosen design and justifies fully and critically its selection with detailed reference to the design specification; develops accurate and detailed planning drawings/diagrams and outlines requirements for the creation of the chosen solution."
+          }
+        ]
+      }
+    },
+    {
+      "id": "cs",
+      "label": "Creating the\nSolution",
+      "criterion": "Criterion C",
+      "color": "#6AAF6A",
+      "light": "#c8e8c8",
+      "description": "Students plan and create a solution, applying technical skills and refining their approach as they develop a functioning outcome.",
+      "nodes": [
+        {
+          "label": "Construct",
+          "detail": "a logical plan",
+          "description": "Students produce a step-by-step plan that sequences tasks logically, identifies materials and tools, estimates time, and is sufficiently detailed for peers to follow to create the solution.",
+          "progression": {
+            "y1": "Outlines or lists the steps in a plan, considering time and resources at a basic level.",
+            "y3": "Constructs a more logical plan with clearer sequencing and more efficient use of time and resources.",
+            "y5": "Constructs a detailed and logical plan that describes efficient use of time and resources and is clear enough for peers to follow."
+          },
+          "strand_full": "Construct a logical plan which describes the efficient use of time and resources, sufficient for peers to be able to follow to create the solution."
+        },
+        {
+          "label": "Demonstrate",
+          "detail": "technical skills",
+          "description": "Students apply a wide range of complex skills to create their solution to a high standard, working independently with minimal guidance after initial instruction.",
+          "progression": {
+            "y1": "Demonstrates simple to emerging technical skills with more support.",
+            "y3": "Demonstrates stronger and more consistent technical skills with growing independence.",
+            "y5": "Demonstrates a wide range of strong technical skills independently and effectively."
+          },
+          "strand_full": "Demonstrate excellent technical skills when making the solution."
+        },
+        {
+          "label": "Follow",
+          "detail": "the plan",
+          "description": "Students carry out the creation process in a logical sequence, referring to their plan and managing time and resources so the solution functions as intended and is presented appropriately.",
+          "progression": {
+            "y1": "Follows the plan to create a solution that may function only partially or with limited consistency.",
+            "y3": "Follows the plan to create a solution that generally functions as intended.",
+            "y5": "Follows the plan effectively and creates a solution that functions as intended and is appropriately presented."
+          },
+          "strand_full": "Follow the plan to create the solution, which functions as intended."
+        },
+        {
+          "label": "Justify",
+          "detail": "changes made",
+          "description": "When students deviate from their plan, they fully justify each change — explaining why it was made and how it affected the outcome. This distinguishes adaptive problem-solving from changes that are not clearly justified.",
+          "progression": {
+            "y1": "States or lists changes made to the chosen design or plan.",
+            "y3": "Outlines or explains changes made to the design and plan during creation.",
+            "y5": "Describes and fully justifies changes made to the chosen design and plan, showing adaptive decision-making."
+          },
+          "strand_full": "Fully justify changes made to the chosen design and plan when making the solution."
+        }
+      ],
+      "levels": {
+        "y1": [
+          {
+            "band": "1–2",
+            "text": "Demonstrates minimal technical skills when making the solution; creates the solution, which functions poorly and is presented in an incomplete form."
+          },
+          {
+            "band": "3–4",
+            "text": "Lists the main steps in a plan that contains some details, resulting in peers having difficulty following the plan to create the solution; demonstrates satisfactory technical skills when making the solution; creates the solution, which partially functions and is adequately presented; states one change made to the chosen design or plan when making the solution."
+          },
+          {
+            "band": "5–6",
+            "text": "Lists the steps in a plan, which considers time and resources, resulting in peers being able to follow the plan to create the solution; demonstrates competent technical skills when making the solution; creates the solution, which functions as intended and is presented appropriately; states one change made to the chosen design and plan when making the solution."
+          },
+          {
+            "band": "7–8",
+            "text": "Outlines a plan, which considers the use of resources and time, sufficient for peers to be able to follow to create the solution; demonstrates excellent technical skills when making the solution; follows the plan to create the solution, which functions as intended and is presented appropriately; lists the changes made to the chosen design and plan when making the solution."
+          }
+        ],
+        "y3": [
+          {
+            "band": "1–2",
+            "text": "Demonstrates minimal technical skills when making the solution; creates the solution, which functions poorly and is presented in an incomplete form."
+          },
+          {
+            "band": "3–4",
+            "text": "Outlines each step in a plan that contains some details, resulting in peers having difficulty following the plan to create the solution; demonstrates satisfactory technical skills when making the solution; creates the solution, which partially functions and is adequately presented; outlines changes made to the chosen design or plan when making the solution."
+          },
+          {
+            "band": "5–6",
+            "text": "Constructs a plan, which considers time and resources, sufficient for peers to be able to follow to create the solution; demonstrates competent technical skills when making the solution; creates the solution, which functions as intended and is presented appropriately; outlines changes made to the chosen design and plan when making the solution."
+          },
+          {
+            "band": "7–8",
+            "text": "Constructs a logical plan, which outlines the efficient use of time and resources, sufficient for peers to be able to follow to create the solution; demonstrates excellent technical skills when making the solution; follows the plan to create the solution, which functions as intended and is presented appropriately; explains changes made to the chosen design and plan when making the solution."
+          }
+        ],
+        "y5": [
+          {
+            "band": "1–2",
+            "text": "Demonstrates minimal technical skills when making the solution; creates the solution, which functions poorly and is presented in an incomplete form."
+          },
+          {
+            "band": "3–4",
+            "text": "Constructs a plan that contains some production details, resulting in peers having difficulty following the plan; demonstrates satisfactory technical skills when making the solution; creates the solution, which partially functions and is adequately presented; outlines changes made to the chosen design and plan when making the solution."
+          },
+          {
+            "band": "5–6",
+            "text": "Constructs a logical plan, which considers time and resources, sufficient for peers to be able to follow to create the solution; demonstrates competent technical skills when making the solution; creates the solution, which functions as intended and is presented appropriately; describes changes made to the chosen design and plan when making the solution."
+          },
+          {
+            "band": "7–8",
+            "text": "Constructs a detailed and logical plan, which describes the efficient use of time and resources, sufficient for peers to be able to follow to create the solution; demonstrates excellent technical skills when making the solution; follows the plan to create the solution, which functions as intended and is presented appropriately; fully justifies changes made to the chosen design and plan when making the solution."
+          }
+        ]
+      }
+    },
+    {
+      "id": "ev",
+      "label": "Evaluating",
+      "criterion": "Criterion D",
+      "color": "#C96060",
+      "light": "#f5c8c8",
+      "description": "Students design and carry out tests to evaluate a solution, analysing its effectiveness and identifying opportunities for improvement and impact.",
+      "nodes": [
+        {
+          "label": "Design",
+          "detail": "testing methods",
+          "description": "Students design detailed, relevant testing methods that generate data to measure the success of the solution. Methods should directly address the measurable criteria established in the design specification.",
+          "progression": {
+            "y1": "Defines or outlines simple relevant testing methods to measure success.",
+            "y3": "Describes more detailed and relevant testing methods that generate accurate data.",
+            "y5": "Designs detailed and relevant testing methods that clearly generate data against the specification."
+          },
+          "strand_full": "Design detailed and relevant testing methods which generate data to measure the success of the solution."
+        },
+        {
+          "label": "Evaluate",
+          "detail": "the success",
+          "description": "Students critically evaluate the success of the solution against the design specification based on authentic product testing. A strong evaluation acknowledges both successes and shortcomings with specific evidence.",
+          "progression": {
+            "y1": "States or outlines the success of the solution against the specification.",
+            "y3": "Explains success more clearly with reference to relevant testing.",
+            "y5": "Critically evaluates success against the design specification using authentic product testing."
+          },
+          "strand_full": "Critically evaluate the success of the solution against the design specification."
+        },
+        {
+          "label": "Explain",
+          "detail": "how it could be improved",
+          "description": "Students identify specific, realistic improvements grounded in evidence from testing. This distinguishes reflective improvement thinking from superficial additions not connected to evaluation findings.",
+          "progression": {
+            "y1": "States or outlines simple improvements.",
+            "y3": "Describes possible improvements with increasing relevance and clarity.",
+            "y5": "Explains realistic and evidence-based improvements linked directly to evaluation findings."
+          },
+          "strand_full": "Explain how the solution could be improved."
+        },
+        {
+          "label": "Explain",
+          "detail": "the impact",
+          "description": "Students explain the impact of the solution on the client or target audience, considering broader ethical, cultural, economic or sustainability dimensions of their design decisions.",
+          "progression": {
+            "y1": "States or outlines how the solution affects the client or target audience.",
+            "y3": "Describes the impact with more relevance and detail.",
+            "y5": "Explains the impact clearly and thoughtfully for the client or target audience, with stronger reflection on consequences."
+          },
+          "strand_full": "Explain the impact of the solution on the client/target audience."
+        }
+      ],
+      "levels": {
+        "y1": [
+          {
+            "band": "1–2",
+            "text": "Defines a testing method, which is used to measure the success of the solution; states the success of the solution."
+          },
+          {
+            "band": "3–4",
+            "text": "Defines a relevant testing method, which generates data, to measure the success of the solution; states the success of the solution against the design specification based on the results of one relevant test; states one way in which the solution could be improved; states one way in which the solution can impact the client/target audience."
+          },
+          {
+            "band": "5–6",
+            "text": "Defines relevant testing methods, which generate data, to measure the success of the solution; states the success of the solution against the design specification based on relevant product testing; outlines one way in which the solution could be improved; outlines the impact of the solution on the client/target audience, with guidance."
+          },
+          {
+            "band": "7–8",
+            "text": "Outlines simple, relevant testing methods, which generate data, to measure the success of the solution; outlines the success of the solution against the design specification based on authentic product testing; outlines how the solution could be improved; outlines the impact of the solution on the client/target audience."
+          }
+        ],
+        "y3": [
+          {
+            "band": "1–2",
+            "text": "Describes a testing method, which is used to measure the success of the solution; states the success of the solution."
+          },
+          {
+            "band": "3–4",
+            "text": "Describes a relevant testing method, which generates data, to measure the success of the solution; outlines the success of the solution against the design specification based on relevant product testing; lists the ways in which the solution could be improved; outlines the impact of the solution on the client/target audience."
+          },
+          {
+            "band": "5–6",
+            "text": "Describes relevant testing methods, which generate data, to measure the success of the solution; describes the success of the solution against the design specification based on relevant product testing; outlines how the solution could be improved; describes the impact of the solution on the client/target audience, with guidance."
+          },
+          {
+            "band": "7–8",
+            "text": "Describes detailed and relevant testing methods, which generate accurate data, to measure the success of the solution; explains the success of the solution against the design specification based on authentic product testing; describes how the solution could be improved; describes the impact of the solution on the client/target audience."
+          }
+        ],
+        "y5": [
+          {
+            "band": "1–2",
+            "text": "Designs a testing method, which is used to measure the success of the solution; states the success of the solution."
+          },
+          {
+            "band": "3–4",
+            "text": "Designs a relevant testing method, which generates data, to measure the success of the solution; outlines the success of the solution against the design specification based on relevant product testing; outlines how the solution could be improved; outlines the impact of the solution on the client/target audience."
+          },
+          {
+            "band": "5–6",
+            "text": "Designs relevant testing methods, which generate data, to measure the success of the solution; explains the success of the solution against the design specification based on relevant product testing; describes how the solution could be improved; explains the impact on the client/target audience, with guidance."
+          },
+          {
+            "band": "7–8",
+            "text": "Designs detailed and relevant testing methods, which generate data, to measure the success of the solution; critically evaluates the success of the solution against the design specification based on authentic product testing; explains how the solution could be improved; explains the impact of the product on the client/target audience."
+          }
+        ]
+      }
+    }
+  ]
+}

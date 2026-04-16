@@ -3,6 +3,7 @@
   import { SUBJECT_TABS } from '$lib/subjects';
   import { appState } from '$lib/state/subject.svelte';
   import { loadSubject } from '$lib/utils/data';
+  import WheelRenderer from '$lib/components/WheelRenderer.svelte';
 
   let activeTabIndex = $state(0);
 
@@ -53,7 +54,9 @@
 <div class="flex flex-1 min-h-0 overflow-hidden">
   <!-- Wheel panel -->
   <div class="flex-[0_0_38%] flex items-center justify-center p-2.5">
-    <p class="text-xs text-muted">Wheel goes here</p>
+    {#if appState.subjectData}
+      <WheelRenderer />
+    {/if}
   </div>
 
   <!-- Right side: info + levels -->

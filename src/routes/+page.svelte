@@ -5,6 +5,7 @@
   import { loadSubject } from '$lib/utils/data';
   import WheelRenderer from '$lib/components/WheelRenderer.svelte';
   import InfoPanel from '$lib/components/InfoPanel.svelte';
+  import LevelsPanel from '$lib/components/LevelsPanel.svelte';
 
   let activeTabIndex = $state(0);
 
@@ -62,18 +63,8 @@
 
   <!-- Right side: info + levels -->
   <div class="flex flex-1 min-w-0 min-h-0 border-l border-border">
-    <!-- Info panel -->
     <InfoPanel />
-
-    <!-- Levels panel -->
-    <div class="flex-[0_0_32%] min-w-[200px] max-w-[350px] flex flex-col overflow-hidden">
-      <div class="px-3.5 pt-4 pb-2.5 border-b border-border text-[10px] font-semibold tracking-widest uppercase text-muted shrink-0">
-        {appState.subjectData?.levels_panel_title ?? 'Achievement levels'}
-      </div>
-      <div class="flex-1 overflow-y-auto p-3">
-        <p class="text-xs text-muted leading-relaxed">Select a phase to see descriptors.</p>
-      </div>
-    </div>
+    <LevelsPanel />
   </div>
 </div>
 

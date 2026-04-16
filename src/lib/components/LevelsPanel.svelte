@@ -1,6 +1,6 @@
 <script lang="ts">
   import { appState } from '$lib/state/subject.svelte';
-  import { getPhaseColors } from '$lib/subjects';
+  import { getPhaseColors, phaseText } from '$lib/subjects';
 
   // Derived state
   let data = $derived(appState.subjectData);
@@ -14,6 +14,7 @@
     activePhaseIndex >= 0 ? data!.phases[activePhaseIndex] : null
   );
   let pc = $derived(activePhaseIndex >= 0 ? getPhaseColors(activePhaseIndex) : null);
+  let textColor = $derived(activePhaseIndex >= 0 ? phaseText(activePhaseIndex) : null);
 
   // Level descriptors for current phase + year
   let levels = $derived(
@@ -229,7 +230,7 @@
       <!-- ── Standard achievement levels ── -->
       {#each levels as lv}
         <div class="p-2.5 rounded-lg bg-surface border border-border">
-          <div class="text-[10px] font-semibold tracking-widest uppercase mb-0.5" style="color: {pc?.dark ?? 'var(--color-text)'};">
+          <div class="text-[10px] font-semibold tracking-widest uppercase mb-0.5" style="color: {textColor ?? 'var(--color-text)'};">
             {lv.band}
           </div>
           <div class="text-[11px] leading-normal text-muted">{lv.text}</div>

@@ -6,6 +6,7 @@
   import WheelRenderer from '$lib/components/WheelRenderer.svelte';
   import InfoPanel from '$lib/components/InfoPanel.svelte';
   import LevelsPanel from '$lib/components/LevelsPanel.svelte';
+  import ThemeToggle from '$lib/components/ThemeToggle.svelte';
 
   let activeTabIndex = $state(0);
 
@@ -32,6 +33,9 @@
     Learning Waypoints
   </a>
   <span>MYP Framework Explorer</span>
+  <div class="ml-auto">
+    <ThemeToggle />
+  </div>
 </header>
 
 <!-- Tab bar -->

@@ -1,6 +1,6 @@
 <script lang="ts">
   import { appState } from '$lib/state/subject.svelte';
-  import { getPhaseColors } from '$lib/subjects';
+  import { getPhaseColors, phaseText } from '$lib/subjects';
   import NodeCard from './NodeCard.svelte';
 
   // Derived state
@@ -12,6 +12,7 @@
     activePhaseIndex >= 0 ? data!.phases[activePhaseIndex] : null
   );
   let pc = $derived(activePhaseIndex >= 0 ? getPhaseColors(activePhaseIndex) : null);
+  let textColor = $derived(activePhaseIndex >= 0 ? phaseText(activePhaseIndex) : null);
 
   // Tooltip state
   let tipVisible = $state(false);
@@ -42,18 +43,18 @@
 </script>
 
 <div class="flex-1 min-w-0 flex flex-col border-r border-border overflow-hidden">
-  {#if activePhase && pc}
+  {#if activePhase && pc && textColor}
     <!-- ── Phase detail view ── -->
 
     <!-- Phase header with badge -->
     <div class="px-5 pt-4 pb-3 border-b border-border shrink-0">
       <span
         class="inline-block px-3 py-0.5 rounded-full text-[10px] font-semibold tracking-wide mb-1.5"
-        style="background: {pc.color}18; color: {pc.dark}; border: 1px solid {pc.color}44;"
+        style="background: {pc.color}18; color: {textColor}; border: 1px solid {pc.color}44;"
       >
         {activePhase.criterion}
       </span>
-      <div class="font-serif text-base font-bold leading-tight mt-1" style="color: {pc.dark};">
+      <div class="font-serif text-base font-bold leading-tight mt-1" style="color: {textColor};">
         {activePhase.label.replace(/\n/g, ' ')}
       </div>
     </div>

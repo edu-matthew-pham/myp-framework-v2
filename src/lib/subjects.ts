@@ -31,3 +31,13 @@ export const PHASE_COLORS = [
 export function getPhaseColors(index: number) {
   return PHASE_COLORS[index % PHASE_COLORS.length];
 }
+
+// Helper to get the correct text colour for current theme
+// Uses dark variant on light backgrounds, light variant on dark backgrounds
+export function phaseText(index: number): string {
+  const pc = getPhaseColors(index);
+  if (typeof document !== 'undefined') {
+    return document.documentElement.classList.contains('dark') ? pc.light : pc.dark;
+  }
+  return pc.dark;
+}

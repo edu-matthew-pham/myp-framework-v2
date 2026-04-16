@@ -40,7 +40,7 @@
   }
 </script>
 
-<div class="flex-[0_0_32%] lg:min-w-[200px] lg:max-w-[350px] flex flex-col overflow-hidden">
+<div class="flex-1 lg:flex-[0_0_32%] lg:min-w-[200px] lg:max-w-[350px] flex flex-col overflow-hidden">
   <!-- Panel header -->
   <div class="px-3.5 pt-4 pb-2.5 border-b border-border shrink-0">
     <div class="text-[10px] font-semibold tracking-widest uppercase text-muted">

@@ -42,19 +42,6 @@
 
 <!-- Header -->
 <header class="px-4 lg:px-6 py-2.5 border-b border-border bg-bg flex items-center gap-2 text-[11px] text-muted shrink-0">
-  <!-- Hamburger button — mobile only -->
-  <button
-    class="lg:hidden text-text p-1"
-    onclick={() => menuOpen = !menuOpen}
-    aria-label="Open subject menu"
-  >
-    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-      <line x1="3" y1="6" x2="21" y2="6" />
-      <line x1="3" y1="12" x2="21" y2="12" />
-      <line x1="3" y1="18" x2="21" y2="18" />
-    </svg>
-  </button>
-
   <a
     href="https://learningwaypoints.com"
     class="text-text underline underline-offset-3 decoration-border hover:decoration-muted"
@@ -63,8 +50,20 @@
   </a>
   <span class="hidden sm:inline">MYP Framework Explorer</span>
   <span class="sm:hidden">MYP</span>
-  <div class="ml-auto">
+  <div class="ml-auto flex items-center gap-2">
     <ThemeToggle />
+    <!-- Hamburger button — mobile only -->
+    <button
+      class="lg:hidden text-text p-1"
+      onclick={() => menuOpen = !menuOpen}
+      aria-label="Open subject menu"
+    >
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+        <line x1="3" y1="6" x2="21" y2="6" />
+        <line x1="3" y1="12" x2="21" y2="12" />
+        <line x1="3" y1="18" x2="21" y2="18" />
+      </svg>
+    </button>
   </div>
 </header>
 

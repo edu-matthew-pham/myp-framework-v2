@@ -1,2 +1,94 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://svelte.dev/docs/kit">svelte.dev/docs/kit</a> to read the documentation</p>
+<script lang="ts">
+  import { onMount } from 'svelte';
+  import { SUBJECT_TABS } from '$lib/subjects';
+  import { appState } from '$lib/state/subject.svelte';
+  import { loadSubject } from '$lib/utils/data';
+
+  let activeTabIndex = $state(0);
+
+  async function switchTab(index: number) {
+    activeTabIndex = index;
+    appState.activePhaseId = null;
+    appState.activeYear = 'y1';
+    appState.activeFoundTab = 0;
+    const data = await loadSubject(SUBJECT_TABS[index].file);
+    appState.subjectData = data;
+  }
+
+  onMount(() => {
+    switchTab(0);
+  });
+</script>
+
+<!-- Header -->
+<header class="px-6 py-2.5 border-b border-border bg-bg flex items-center gap-2 text-[11px] text-muted shrink-0">
+  <a
+    href="https://learningwaypoints.com"
+    class="text-text underline underline-offset-3 decoration-border hover:decoration-muted"
+  >
+    Learning Waypoints
+  </a>
+  <span>MYP Framework Explorer</span>
+</header>
+
+<!-- Tab bar -->
+<div class="flex items-center gap-0.5 px-4 border-b border-border bg-bg shrink-0 overflow-x-auto">
+  {#each SUBJECT_TABS as tab, i}
+    {#if i > 0 && SUBJECT_TABS[i - 1].separator}
+      <div class="w-px h-[18px] bg-border shrink-0 mx-1.5 self-center"></div>
+    {/if}
+    <button
+      class="px-4 py-2.5 text-xs font-medium whitespace-nowrap border-b-2 -mb-px transition-colors
+        {activeTabIndex === i
+          ? 'text-text border-text'
+          : 'text-muted border-transparent hover:text-text'}"
+      onclick={() => switchTab(i)}
+    >
+      {tab.label}
+    </button>
+  {/each}
+</div>
+
+<!-- Main three-panel layout -->
+<div class="flex flex-1 min-h-0 overflow-hidden">
+  <!-- Wheel panel -->
+  <div class="flex-[0_0_38%] flex items-center justify-center p-2.5">
+    <p class="text-xs text-muted">Wheel goes here</p>
+  </div>
+
+  <!-- Right side: info + levels -->
+  <div class="flex flex-1 min-w-0 border-l border-border">
+    <!-- Info panel -->
+    <div class="flex-1 min-w-0 flex flex-col border-r border-border overflow-hidden">
+      <div class="px-5 pt-4 pb-3 border-b border-border shrink-0">
+        {#if appState.subjectData}
+          <p class="text-sm text-muted leading-relaxed">
+            {appState.subjectData.title} loaded — {appState.subjectData.phases.length} phases
+          </p>
+        {:else}
+          <p class="text-sm text-muted leading-relaxed">Loading...</p>
+        {/if}
+      </div>
+      <div class="flex-1 overflow-y-auto p-3.5"></div>
+    </div>
+
+    <!-- Levels panel -->
+    <div class="flex-[0_0_32%] min-w-[200px] max-w-[350px] flex flex-col overflow-hidden">
+      <div class="px-3.5 pt-4 pb-2.5 border-b border-border text-[10px] font-semibold tracking-widest uppercase text-muted shrink-0">
+        {appState.subjectData?.levels_panel_title ?? 'Achievement levels'}
+      </div>
+      <div class="flex-1 overflow-y-auto p-3">
+        <p class="text-xs text-muted leading-relaxed">Select a phase to see descriptors.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Footer -->
+<div class="shrink-0 px-6 py-1.5 text-[10.5px] text-muted border-t border-border bg-bg">
+  An independent teacher-developed tool based on
+  <a href="https://www.ibo.org/programmes/middle-years-programme/" target="_blank" class="text-muted underline">
+    IB MYP: From Principles into Practice
+  </a>
+  (2014, updated 2022) and the MYP subject-group guides. The IB is the authoritative source for all programme documentation.
+</div>

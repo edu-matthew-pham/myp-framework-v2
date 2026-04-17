@@ -35,7 +35,7 @@
   function formatIntro(intro: string): string {
     return intro.replace(
       /limited \(1–2\), adequate \(3–4\), substantial \(5–6\), and excellent \(7–8\)/,
-      'performance that is:<ul class="ml-4 mt-1 mb-1"><li class="mb-0.5 text-text">limited (1–2)</li><li class="mb-0.5 text-text">adequate (3–4)</li><li class="mb-0.5 text-text">substantial (5–6)</li><li class="mb-0.5 text-text">excellent (7–8)</li></ul>'
+      '<ul class="ml-4 mt-1 mb-1"><li class="mb-0.5 text-text">limited (1–2)</li><li class="mb-0.5 text-text">adequate (3–4)</li><li class="mb-0.5 text-text">substantial (5–6)</li><li class="mb-0.5 text-text">excellent (7–8)</li></ul>'
     );
   }
 </script>

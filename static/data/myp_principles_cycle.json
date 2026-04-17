@@ -191,6 +191,22 @@
             ]
           ]
         }
+      },
+      {
+        "title": "General Grade Descriptors (1–7)",
+        "text": "To arrive at a criterion levels total, teachers add together the student's final achievement levels in all criteria of the subject group. The grade boundary guidelines below convert the criterion levels total into a grade on a 1–7 scale.",
+        "progression_table": {
+          "headers": ["Grade", "Boundary", "Descriptor"],
+          "rows": [
+            ["1", "1–5", "Produces work of very limited quality. Conveys many significant misunderstandings or lacks understanding of most concepts and contexts. Very rarely demonstrates critical or creative thinking. Very inflexible, rarely using knowledge or skills."],
+            ["2", "6–9", "Produces work of limited quality. Expresses misunderstandings or significant gaps in understanding for many concepts and contexts. Infrequently demonstrates critical or creative thinking. Generally inflexible in the use of knowledge and skills, infrequently applying knowledge and skills."],
+            ["3", "10–14", "Produces work of an acceptable quality. Communicates basic understanding of many concepts and contexts, with occasionally significant misunderstandings or gaps. Begins to demonstrate some basic critical and creative thinking. Is often inflexible in the use of knowledge and skills, requiring support even in familiar classroom situations."],
+            ["4", "15–18", "Produces good-quality work. Communicates basic understanding of most concepts and contexts with few misunderstandings and minor gaps. Often demonstrates basic critical and creative thinking. Uses knowledge and skills with some flexibility in familiar classroom situations, but requires support in unfamiliar situations."],
+            ["5", "19–23", "Produces generally high-quality work. Communicates secure understanding of concepts and contexts. Demonstrates critical and creative thinking, sometimes with sophistication. Uses knowledge and skills in familiar classroom and real-world situations and, with support, some unfamiliar real-world situations."],
+            ["6", "24–27", "Produces high-quality, occasionally innovative work. Communicates extensive understanding of concepts and contexts. Demonstrates critical and creative thinking, frequently with sophistication. Uses knowledge and skills in familiar and unfamiliar classroom and real-world situations, often with independence."],
+            ["7", "28–32", "Produces high-quality, frequently innovative work. Communicates comprehensive, nuanced understanding of concepts and contexts. Consistently demonstrates sophisticated critical and creative thinking. Frequently transfers knowledge and skills with independence and expertise in a variety of complex classroom and real-world situations."]
+          ]
+        }
       }
     ]
   },
